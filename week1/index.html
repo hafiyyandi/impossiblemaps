@@ -1,0 +1,73 @@
+<!--  The most basic web map. -->
+<!DOCTYPE html>
+<!-- Leaflet Guide: http://leafletjs.com/examples/quick-start/ -->
+<html lang="en">
+
+<head>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        html, #map {
+            position: absolute;
+            top:0;
+            bottom:0;
+            width: 100%;
+
+        }
+    </style>
+    <title> Base Layer </title>
+    <!-- Leaflet stylesheet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="" />
+    <!-- Leaflet javascript  -->
+    <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin=""></script>
+</head>
+
+<body>
+    <div id="map"> </div>
+    <script>
+    var map = L.map('map').setView([40.729, -73.99589], 13);
+    
+    L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_nolabels/{z}/{x}/{y}.png', {
+        attribution: 'OpenStreetMap',
+    }).addTo(map);
+
+    var marker = L.marker([40.729, -73.99589]).addTo(map);
+    
+
+    var home = L.marker([40.682279, -73.911339]).addTo(map);
+    
+
+    var popup = L.popup();
+
+    function onMapClick(e) {
+        popup
+            .setLatLng(e.latlng)
+            .setContent("You clicked the map at " + e.latlng.toString())
+            .openOn(map);
+    }
+
+    map.on('click', onMapClick);
+
+    circle = L.circle([40.729, -73.99589], {
+            color: 'red',
+            fillColor: '#f03',
+            fillOpacity: 0.3,
+            radius: 500
+        }).addTo(map);
+
+    var polygon = L.polygon([
+            [40.729, -73.99589],
+            [40.682279, -73.911339]
+        ]).addTo(map);
+
+    polygon.bindPopup("<b> this is the commuting path </b>").openPopup();
+    marker.bindPopup("<b> This is school </b>").openPopup();
+    home.bindPopup("<b> This is home </b>").openPopup();
+
+    </script>
+</body>
+
+</html>
