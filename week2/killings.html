@@ -1,0 +1,293 @@
+<!-- Documentation: https://www.mapbox.com/mapbox-gl-js/style-spec/#sources-geojson -->
+<!-- Mapbox styles: https://github.com/mapbox/mapbox-gl-styles -->
+<!-- Earthquake data: https://earthquake.usgs.gov/ -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    html,
+    #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+    }
+    </style>
+    <title>Death Map</title>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' />
+</head>
+
+<body>
+    <style>
+    .map-overlay {
+        font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+        position: absolute;
+        width: 25%;
+        top: 0;
+        left: 0;
+        padding: 10px;
+    }
+
+    .map-overlay .map-overlay-inner {
+        background-color: #fff;
+        box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
+        border-radius: 3px;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+
+    .map-overlay h2 {
+        line-height: 24px;
+        display: block;
+        margin: 0 0 10px;
+    }
+
+    .map-overlay .legend h3 {
+        line-height: 15px;
+        display: block;
+        margin: 10px 0 5px 0;
+    }
+
+    .map-overlay .legend .bar {
+        height: 10px;
+        width: 100%;
+        background: linear-gradient(to right, #fef135, #fc191c);
+    }
+
+    .map-overlay .legend .blue {
+        height: 10px;
+        width: 20%;
+        background: #00fff6;
+    }
+
+    .map-overlay input {
+        background-color: transparent;
+        display: inline-block;
+        width: 100%;
+        position: relative;
+        margin: 0;
+        cursor: ew-resize;
+    }
+
+    .mapboxgl-popup {
+      max-width: 400px;
+      font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    }
+
+    </style>
+
+    <div id="map"> </div>
+    <div class='map-overlay top'>
+        <div class='map-overlay-inner'>
+            <h2>Chronology of PKI Genocide</h2>
+            <label id='date'></label>
+            <input id='slider' type='range' min='3' max='15' step='1' value='0' />
+        </div>
+        <div class='map-overlay-inner'>
+            <div id='legend' class='legend'>
+                <div class='blue'> </div>
+                <h3> Visit by General Djuarsa </h3>      
+            </div>
+        </div>
+        <div class='map-overlay-inner'>
+            <div id='legend' class='legend'>
+                <div class='bar'></div>  
+                <h3 id='victimlabel'>Death Count</h3>         
+            </div>
+        </div>
+    </div>
+
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiaGFmaXl5YW5kaSIsImEiOiJjamY5dmY1c2gwbXowMnFvZmJlYmVibGd0In0.djzLVWymjTzvRF6XSFM7uQ';
+
+    var map = new mapboxgl.Map({
+        container: 'map', // you need this
+        style: 'mapbox://styles/mapbox/dark-v9', // you also need this 
+        center: [96, 4.56678256930651], // [long, lat] Different than leaflet, different than google maps, same as geojson! 
+        zoom: 7
+    });
+
+    var currentdate=3;
+    var isFinal = false; // to toggle final view
+
+    function filterBy(date) {
+        currentdate = date;
+        console.log("Selected date: "+ date);
+        
+        var startfilters = ['<=', 'start', currentdate];
+        map.setFilter('killings', startfilters);
+        
+        var visitfilters = ['<=', 'visit', currentdate];
+        map.setFilter('visits', visitfilters);
+
+        // Set the label to the date
+        if (date == 3){
+            document.getElementById('date').textContent = 
+                "Slide to start";
+
+        }
+
+        else if (date < 15){
+            document.getElementById('date').textContent = 
+                "October " + date +", 1965";
+            if (isFinal){
+                map.removeLayer('final');
+                map.removeLayer('final-labels');                
+                isFinal = false;
+            }
+        } 
+
+        else {
+            document.getElementById('date').textContent = 
+                "Total Death Count: 1,941";
+            
+            map.addLayer({
+                'id': 'final',
+                'type': 'circle',
+                'source' : 'killings',
+                'paint' : {
+                    'circle-radius' : {
+                        'property': 'killcount',
+                        'stops' : [
+                            [100, 20],
+                            [550, 75]
+                        ]
+                    },
+                    'circle-color' : {
+                        'property': 'killcount',
+                        'stops' : [
+                            [100, 'yellow'],
+                            [550, 'red']
+                        ]
+                    },
+                    'circle-opacity': 1
+                }
+                
+            });
+
+            map.addLayer({
+                'id': 'final-labels',
+                'type': 'symbol',
+                'source': 'killings',
+                'layout': {
+                
+                    'text-field': '{killcount}',
+                    'text-font': ['Open Sans Bold', 'Arial Unicode MS Bold'],
+                    'text-size': 12
+                },
+                'paint': {
+                    'text-color': 'rgba(0,0,0,0.5)'
+                }
+            });
+
+
+            isFinal = true;
+        }
+    }
+
+
+    // Source is where the data is coming from, layer is what you're going to do with it.
+    map.on('load', function() {
+        map.addSource('killings', { //id for the dataset
+            'type': 'geojson',
+            'data': '/data/killings.json'
+        });
+        
+        map.addLayer({
+            'id': 'killings',
+            'type': 'circle',
+            'source' : 'killings',
+            'paint' : {
+                'circle-radius' : {
+                    'property': 'killcount',
+                    'stops' : [
+                        [100, 20],
+                        [550, 75]
+                    ]
+                },
+                'circle-color' : {
+                    'property': 'killcount',
+                    'stops' : [
+                        [100, 'yellow'],
+                        [550, 'red']
+                    ]
+                },
+                'circle-opacity': 0.5
+            }
+            
+        });
+
+        map.addLayer({
+            'id': 'visits',
+            'type': 'circle',
+            'source' : 'killings',
+            'paint' : {
+                'circle-radius' : 10,
+                'circle-color' : '#00fff6'
+            }
+            
+        });
+        // Set filter to first month of the year
+        // 0 = January
+        filterBy(3);
+    });
+
+    // When a click event occurs near a place, open a popup at the location of
+    // the feature, with HTML description from its properties
+    map.on('click', function(e) {
+        if (currentdate == 15) {
+            var features = map.queryRenderedFeatures(e.point, { layers: ['final'] });
+
+            // if the features have no info, return nothing
+            if (!features.length) {
+                return;
+            }
+
+            var feature = features[0];
+
+            // Populate the popup and set its coordinates
+            // based on the feature found
+            var popup = new mapboxgl.Popup()
+              .setLngLat(feature.geometry.coordinates)
+              .setHTML('<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'> <h3> Detail: </h3>' +
+              '<ul class=\'list-group\'>' +
+              '<li class=\'list-group-item\'> Town: ' + feature.properties['city'] + ' </li>' +
+              '<li class=\'list-group-item\'> Region: ' + feature.properties['region'] + ' </li>' +
+              '<li class=\'list-group-item\'> Djuarsa Visit: October ' + feature.properties['visit'] + ' </li>' +
+              '<li class=\'list-group-item\'> Killing Start: October ' + feature.properties['start'] + ' </li>' +
+              '<li class=\'list-group-item\'> Death Count: ' + feature.properties['killcount'] + ' </li></ul></div>')
+              .addTo(map);
+
+        }
+
+    });
+
+    // Use the same approach as above to indicate that the symbols are clickable
+    // by changing the cursor style to 'pointer'
+    map.on('mousemove', function(e) {
+        if (currentdate == 15) {
+            var features = map.queryRenderedFeatures(e.point, { layers: ['final'] });
+            map.getCanvas().style.cursor = features.length ? 'pointer' : '';
+        }
+      
+    });
+
+
+    document.getElementById('slider').addEventListener('input', function(e) {
+        var date = parseInt(e.target.value, 10);
+        filterBy(date);  
+    });
+
+    </script>
+</body>
+
+</html>

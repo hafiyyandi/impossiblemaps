@@ -1,0 +1,48 @@
+<!-- Documentation: https://www.mapbox.com/mapbox-gl-js/style-spec/#sources-geojson -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    html,
+    #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+    }
+    </style>
+    <title> Vector Map </title>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' />
+</head>
+
+<body>
+    <div id="map"> </div>
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiaGFmaXl5YW5kaSIsImEiOiJjamY5dmY1c2gwbXowMnFvZmJlYmVibGd0In0.djzLVWymjTzvRF6XSFM7uQ';
+
+    var map = new mapboxgl.Map({
+        container: 'map', // you need this on every map
+        style: 'mapbox://styles/mapbox/dark-v9', // you also need this (dark, light, street, satellite)
+        center: [-79.006213, 40.72299],
+        zoom: 5,
+        maxZoom: 9,
+        //pitch: 80, //y rotate
+        //bearing: 29 // cartesian rotate
+    
+    });
+
+
+
+    console.log("testing");
+
+    </script>
+</body>
+
+</html>
