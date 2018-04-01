@@ -1,0 +1,139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pidie",
+        "region": "Southwest Aceh",
+        "start": 15,
+        "killcount": 314
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.339111328125,
+          4.937724274302492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tamiang",
+        "region" : "East Aceh",
+        "visit" : 5,
+        "start" : 13,
+        "killcount": 350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.8826904296875,
+          4.275202171119132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Blang Kejeren",
+        "region": "Gayo Lues",
+        "killcount": 204,
+        "start" : 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.393798828125,
+          3.831369927399413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tapaktuan",
+        "region": "South Aceh",
+        "killcount": 143,
+        "visit" : 7,
+        "start" : 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.1795654296875,
+          3.4531078732956844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Meulaboh",
+        "region": "West Aceh",
+        "killcount": 105,
+        "visit": 8,
+        "start": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.6085205078125,
+          4.625704089861983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Banda Aceh",
+        "region": "Aceh Besar",
+        "killcount": 121,
+        "visit": 4,
+        "start": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3668212890625,
+          5.56678256930651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lhokseumawe",
+        "region": "North Aceh",
+        "killcount": 187,
+        "visit": 7,
+        "start": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.14111328125,
+          5.145656780300527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Takengon",
+        "region": "Central Aceh",
+        "killcount": 517,
+        "visit": 7,
+        "start": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.8939208984375,
+          4.707828375218317
+        ]
+      }
+    }
+  ]
+}
