@@ -24,29 +24,32 @@
     <title>Death Map</title>
     <script src='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
     <link href='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' />
+    <link href="https://fonts.googleapis.com/css?family=Chivo" rel="stylesheet">
 </head>
 
 <body>
     <style>
     .map-overlay {
-        font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+        font: 12px/20px 'Chivo', sans-serif;
         position: absolute;
         width: 25%;
         top: 0;
         left: 0;
         padding: 10px;
+        letter-spacing: 1px;
     }
 
     .map-overlay .map-overlay-inner {
-        background-color: #fff;
+        background-color: #000;
+        color: #eee;
         box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
-        border-radius: 3px;
+        border-radius: 0px;
         padding: 10px;
         margin-bottom: 10px;
     }
 
     .map-overlay h2 {
-        line-height: 24px;
+        line-height: 18px;
         display: block;
         margin: 0 0 10px;
     }
@@ -54,19 +57,37 @@
     .map-overlay .legend h3 {
         line-height: 15px;
         display: block;
-        margin: 10px 0 5px 0;
+        margin: 0 0 0 0;
+    }
+
+    .map-overlay.top .map-overlay-inner h3#date{
+        margin-bottom: 0;
+        color: #fef135;
     }
 
     .map-overlay .legend .bar {
         height: 10px;
         width: 100%;
         background: linear-gradient(to right, #fef135, #fc191c);
+        margin-bottom: 5px;
+        margin-top:5px;
+    }
+
+    .map-overlay .whitebar {
+        height: 2px;
+        width: 10%;
+        background: #eee;
+        margin-bottom: 0;
+        margin-top: 15px;
     }
 
     .map-overlay .legend .blue {
-        height: 10px;
-        width: 20%;
+        height: 20px;
+        width: 20px;
         background: #00fff6;
+        /*background-color: #bbb;*/
+        border-radius: 50%;
+        display: inline-block;
     }
 
     .map-overlay input {
@@ -83,19 +104,50 @@
       font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
     }
 
+    #slider {
+        -webkit-appearance: none;
+        width: 100%;
+        height: 5px;
+        border-radius: 0px;   
+        background: #999;
+        outline: none;
+        opacity: 1;
+        -webkit-transition: .2s;
+        transition: opacity .2s;
+    }
+
+    #slider::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        appearance: none;
+        width: 15px;
+        height: 15px;
+        border-radius: 50%; 
+        background: #fff;
+        cursor: pointer;
+    }
+
+    #slider::-moz-range-thumb {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        background: #fff;
+        cursor: pointer;
+    }
+
     </style>
 
     <div id="map"> </div>
     <div class='map-overlay top'>
         <div class='map-overlay-inner'>
-            <h2>Chronology of PKI Genocide</h2>
-            <label id='date'></label>
+            <h2>TIMELINE OF THE PKI GENOCIDE</h2>
+            <div class='whitebar'></div>  
+            <h3 id='date'></h3>
             <input id='slider' type='range' min='3' max='15' step='1' value='0' />
         </div>
         <div class='map-overlay-inner'>
             <div id='legend' class='legend'>
-                <div class='blue'> </div>
-                <h3> Visit by General Djuarsa </h3>      
+                <span class="blue"></span>
+                <h3>General Djuarsa's Arrival</h3>      
             </div>
         </div>
         <div class='map-overlay-inner'>
@@ -118,6 +170,13 @@
 
     var currentdate=3;
     var isFinal = false; // to toggle final view
+
+    var framesPerSecond = 15; 
+    var initialOpacity = 1
+    var opacity = initialOpacity;
+    var initialRadius = 10;
+    var radius = initialRadius;
+    var maxRadius = 20;
 
     function filterBy(date) {
         currentdate = date;
@@ -149,6 +208,8 @@
         else {
             document.getElementById('date').textContent = 
                 "Total Death Count: 1,941";
+
+           
             
             map.addLayer({
                 'id': 'final',
@@ -208,11 +269,11 @@
             'source' : 'killings',
             'paint' : {
                 'circle-radius' : {
-                    'property': 'killcount',
-                    'stops' : [
-                        [100, 20],
-                        [550, 75]
-                    ]
+                        'property': 'killcount',
+                        'stops' : [
+                            [100, 20],
+                            [550, 75]
+                        ]
                 },
                 'circle-color' : {
                     'property': 'killcount',
@@ -239,6 +300,9 @@
         // Set filter to first month of the year
         // 0 = January
         filterBy(3);
+
+        // Start the animation.
+        //animateMarker(0);
     });
 
     // When a click event occurs near a place, open a popup at the location of
@@ -280,6 +344,26 @@
         }
       
     });
+
+    function animateMarker(timestamp) {
+        setTimeout(function(){
+            requestAnimationFrame(animateMarker);
+
+            radius += (maxRadius - radius) / framesPerSecond;
+            opacity -= ( .9 / framesPerSecond );
+            opacity = Math.min(Math.max(opacity, 0), 1);
+
+            map.setPaintProperty('killings', 'circle-radius', radius);
+            map.setPaintProperty('killings', 'circle-opacity', opacity);
+
+            if (opacity <= 0) {
+                radius = initialRadius;
+                opacity = initialOpacity;
+            } 
+
+        }, 1000 / framesPerSecond);
+        
+    }
 
 
     document.getElementById('slider').addEventListener('input', function(e) {
