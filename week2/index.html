@@ -81,6 +81,14 @@
         margin-top: 15px;
     }
 
+    .whitebar {
+        height: 2px;
+        width: 10%;
+        background: #eee;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+
     .map-overlay .legend .blue {
         height: 20px;
         width: 20px;
@@ -100,8 +108,25 @@
     }
 
     .mapboxgl-popup {
-      max-width: 400px;
-      font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+        color: #eee;
+        max-width: 400px;
+        font: 12px/20px 'Chivo', sans-serif;
+    }
+
+    .mapboxgl-popup-content {
+        background-color: #000;
+        letter-spacing:1px;
+        line-height:1.5;
+        border-radius:0;
+        padding:10px;
+    }
+
+    .mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip {
+        border-top-color: #000;
+    }
+
+    .mapboxgl-popup-close-button {
+        color: #fff;
     }
 
     #slider {
@@ -322,13 +347,13 @@
             // based on the feature found
             var popup = new mapboxgl.Popup()
               .setLngLat(feature.geometry.coordinates)
-              .setHTML('<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'> <h3> Detail: </h3>' +
-              '<ul class=\'list-group\'>' +
-              '<li class=\'list-group-item\'> Town: ' + feature.properties['city'] + ' </li>' +
-              '<li class=\'list-group-item\'> Region: ' + feature.properties['region'] + ' </li>' +
-              '<li class=\'list-group-item\'> Djuarsa Visit: October ' + feature.properties['visit'] + ' </li>' +
-              '<li class=\'list-group-item\'> Killing Start: October ' + feature.properties['start'] + ' </li>' +
-              '<li class=\'list-group-item\'> Death Count: ' + feature.properties['killcount'] + ' </li></ul></div>')
+              .setHTML('<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'> ' +
+              'Town: ' + feature.properties['city'] + ' <br/>' +
+              'Region: ' + feature.properties['region'] + ' <br/>' +
+              '<div class=\'whitebar\'></div>  ' +
+              'Djuarsa Visit: October ' + feature.properties['visit'] + ' <br/>' +
+              'Killing Start: October ' + feature.properties['start'] + ' <br/>' +
+              'Death Count: ' + feature.properties['killcount'] + ' </div>')
               .addTo(map);
 
         }
