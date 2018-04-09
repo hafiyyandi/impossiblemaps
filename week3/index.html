@@ -1,0 +1,468 @@
+<!-- Documentation: https://www.mapbox.com/mapbox-gl-js/style-spec/#sources-geojson -->
+<!-- Mapbox styles: https://github.com/mapbox/mapbox-gl-styles -->
+<!-- Earthquake data: https://earthquake.usgs.gov/ -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    html,
+    #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+    }
+    </style>
+    <title>Death Map</title>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' />
+    <link href="https://fonts.googleapis.com/css?family=Chivo" rel="stylesheet">
+</head>
+
+<body>
+    <style>
+    .map-overlay {
+        font: 12px/20px 'Chivo', sans-serif;
+        position: absolute;
+        width: 25%;
+        top: 0;
+        left: 0;
+        padding: 10px;
+        letter-spacing: 1px;
+    }
+
+    .map-overlay .map-overlay-inner {
+        background-color: #000;
+        color: #eee;
+        box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
+        border-radius: 0px;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+
+    .map-overlay h2 {
+        line-height: 18px;
+        display: block;
+        margin: 0 0 10px;
+    }
+
+    .map-overlay .legend h3 {
+        line-height: 15px;
+        display: block;
+        margin: 0 0 0 0;
+    }
+
+    .map-overlay.top .map-overlay-inner h3#date{
+        margin-bottom: 0;
+        color: #fef135;
+    }
+
+    .map-overlay .legend .bar {
+        height: 10px;
+        width: 100%;
+        background: linear-gradient(to right, #fef135, #fc191c);
+        margin-bottom: 5px;
+        margin-top:5px;
+    }
+
+    .map-overlay .whitebar {
+        height: 2px;
+        width: 10%;
+        background: #eee;
+        margin-bottom: 0;
+        margin-top: 15px;
+    }
+
+    .map-overlay .legend .blue {
+        height: 20px;
+        width: 20px;
+        background: #00fff6;
+        /*background-color: #bbb;*/
+        border-radius: 50%;
+        display: inline-block;
+    }
+
+    .map-overlay .legend .x {
+        height: 26px;
+        width: 26px;
+        background-image: url('assets/x.png');
+        /*background-color: #bbb;*/
+        display: inline-block;
+    }
+
+    .map-overlay input {
+        background-color: transparent;
+        display: inline-block;
+        width: 100%;
+        position: relative;
+        margin: 0;
+        cursor: ew-resize;
+    }
+
+    .mapboxgl-popup {
+        color: #eee;
+        max-width: 400px;
+        font: 12px/20px 'Chivo', sans-serif;
+    }
+
+    .mapboxgl-popup-content {
+        background-color: #000;
+        letter-spacing:1px;
+        line-height:1.5;
+        border-radius:0;
+        padding:10px;
+    }
+
+    .mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip {
+        border-top-color: #000;
+    }
+
+    .mapboxgl-popup-close-button {
+        color: #fff;
+    }
+
+    #slider {
+        -webkit-appearance: none;
+        width: 100%;
+        height: 5px;
+        border-radius: 0px;   
+        background: #999;
+        outline: none;
+        opacity: 1;
+        -webkit-transition: .2s;
+        transition: opacity .2s;
+    }
+
+    #slider::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        appearance: none;
+        width: 15px;
+        height: 15px;
+        border-radius: 50%; 
+        background: #fff;
+        cursor: pointer;
+    }
+
+    #slider::-moz-range-thumb {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        background: #fff;
+        cursor: pointer;
+    }
+
+    </style>
+
+    <div id="map"> </div>
+    <div class='map-overlay top'>
+        <div class='map-overlay-inner'>
+            <h2>TIMELINE OF PKI PUBLIC KILLINGS</h2>
+            <div class='whitebar'></div>  
+            <h3 id='date'></h3>
+            <input id='slider' type='range' min='3' max='15' step='1' value='0' />
+        </div>
+        <div class='map-overlay-inner'>
+            <div id='legend' class='legend'>
+                <span class="blue"></span>
+                <h3>General Djuarsa's Arrival</h3>      
+            </div>
+        </div>
+        <div class='map-overlay-inner'>
+            <div id='legend' class='legend'>
+                <div class='bar'></div>  
+                <h3 id='victimlabel'>Public Death Count</h3>         
+            </div>
+        </div>
+        <div class='map-overlay-inner'>
+            <div id='legend' class='legend'>
+                <span class="x"></span> 
+                <h3 id='victimlabel'>Non-Public Killing Sites</h3>         
+            </div>
+        </div>
+    </div>
+
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiaGFmaXl5YW5kaSIsImEiOiJjamY5dmY1c2gwbXowMnFvZmJlYmVibGd0In0.djzLVWymjTzvRF6XSFM7uQ';
+
+    var map = new mapboxgl.Map({
+        container: 'map', // you need this
+        style: 'mapbox://styles/mapbox/dark-v9', // you also need this 
+        center: [96, 4.56678256930651], // [long, lat] Different than leaflet, different than google maps, same as geojson! 
+        zoom: 7
+    });
+
+    var currentdate=3;
+    var isFinal = false; // to toggle final view
+
+    var framesPerSecond = 15; 
+    var initialOpacity = 1
+    var opacity = initialOpacity;
+    var initialRadius = 10;
+    var radius = initialRadius;
+    var maxRadius = 20;
+
+    function filterBy(date) {
+        currentdate = date;
+        console.log("Selected date: "+ date);
+        
+        var startfilters = ['<=', 'start', currentdate];
+        map.setFilter('killings', startfilters);
+        
+        var visitfilters = ['<=', 'visit', currentdate];
+        map.setFilter('visits', visitfilters);
+
+        // Set the label to the date
+        if (date == 3){
+            document.getElementById('date').textContent = 
+                "Slide to start";
+
+        }
+
+        else if (date < 15){
+            document.getElementById('date').textContent = 
+                "October " + date +", 1965";
+            if (isFinal){
+                map.removeLayer('final');
+                map.removeLayer('final-labels');
+                map.removeLayer('killsites');
+                //map.setLayoutProperty('killings', 'visibility', 'visible');
+                map.setLayoutProperty('visits', 'visibility', 'visible');                
+                isFinal = false;
+            }
+        } 
+
+        else {
+            document.getElementById('date').textContent = 
+                "Total Death Count: 1,941";
+
+            //map.setLayoutProperty('killings', 'visibility', 'none');
+            map.setLayoutProperty('visits', 'visibility', 'none');
+            
+            map.addLayer({
+                'id': 'final',
+                'type': 'circle',
+                'source' : 'killings',
+                'paint' : {
+                    'circle-radius' : {
+                        'property': 'killcount',
+                        'stops' : [
+                            [100, 40],
+                            [550, 95]
+                        ]
+                    },
+                    'circle-color' : {
+                        'property': 'killcount',
+                        'stops' : [
+                            [100, 'yellow'],
+                            [550, 'red']
+                        ]
+                    },
+                    'circle-opacity': 1,
+                    'circle-blur': 1
+                }
+                
+            });
+
+            map.addLayer({
+                'id': 'killsites-below',
+                'type': 'circle',
+                'source' : 'killsites',
+                'paint' : {
+                    'circle-radius' : 10,
+                    'circle-color' : 'black',
+                    'circle-opacity': 0
+                }
+            });
+
+            map.addLayer({
+                'id': 'killsites',
+                'type': 'symbol',
+                'source' : 'killsites',
+                'layout' : {
+                    'icon-image' : 'x',
+                    'icon-size' : 0.5
+                }
+            });           
+
+
+            map.addLayer({
+                'id': 'final-labels',
+                'type': 'symbol',
+                'source': 'killings',
+                'layout': {
+                
+                    'text-field': '{killcount}',
+                    'text-font': ['Open Sans Bold', 'Arial Unicode MS Bold'],
+                    'text-size': 12
+                },
+                'paint': {
+                    'text-color': 'rgba(0,0,0,0.5)'
+                }
+            });
+
+
+
+            isFinal = true;
+        }
+    }
+
+
+    // Source is where the data is coming from, layer is what you're going to do with it.
+    map.on('load', function() {
+        map.loadImage('assets/x.png', function(error, image) {
+            if (error) throw error;
+            map.addImage('x', image);
+        });
+
+        map.addSource('killings', { //id for the dataset
+            'type': 'geojson',
+            'data': 'data/killings.json'
+        });
+
+        map.addSource('killsites', { //id for the dataset
+            'type': 'geojson',
+            'data': 'data/consolidated.json'
+        });
+        
+        map.addLayer({
+            'id': 'killings',
+            'type': 'circle',
+            'source' : 'killings',
+            'paint' : {
+                'circle-radius' : {
+                        'property': 'killcount',
+                        'stops' : [
+                            [100, 40],
+                            [550, 95]
+                        ]
+                },
+                'circle-color' : {
+                    'property': 'killcount',
+                    'stops' : [
+                        [100, 'yellow'],
+                        [550, 'red']
+                    ]
+                },
+                'circle-opacity': 0.5,
+                'circle-blur': 1
+            }
+            
+        });
+
+        map.addLayer({
+            'id': 'visits',
+            'type': 'circle',
+            'source' : 'killings',
+            'paint' : {
+                'circle-radius' : 10,
+                'circle-color' : '#00fff6'
+            }
+            
+        });
+        // Set filter to first month of the year
+        // 0 = January
+        filterBy(3);
+
+        // Start the animation.
+        //animateMarker(0);
+    });
+
+    // When a click event occurs near a place, open a popup at the location of
+    // the feature, with HTML description from its properties
+    map.on('click', function(e) {
+        if (currentdate == 15) {
+            var features = map.queryRenderedFeatures(e.point, { layers: ['final', 'killsites'] });
+
+            // if the features have no info, return nothing
+            if (!features.length) {
+                return;
+            }
+
+            var feature = features[0];
+
+            // Populate the popup and set its coordinates
+            // based on the feature found
+            var popup = new mapboxgl.Popup()
+              .setLngLat(feature.geometry.coordinates)
+              .setHTML('<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'> ' +
+              'Town: ' + feature.properties['city'] + ' <br/>' +
+              'Region: ' + feature.properties['region'] + ' <br/>' +
+              '<div class=\'whitebar\'></div>  ' +
+              'Djuarsa Visit: October ' + feature.properties['visit'] + ' <br/>' +
+              'Killing Start: October ' + feature.properties['start'] + ' <br/>' +
+              'Public Death Count: ' + feature.properties['killcount'] + ' </div>')
+              .addTo(map);
+
+           //pop up for another layer
+           var features_site = map.queryRenderedFeatures(e.point, { layers: ['killsites'] });
+
+            // if the features have no info, return nothing
+            if (!features_site.length) {
+                return;
+            }
+
+            var feature_site = features_site[0];
+
+            // Populate the popup and set its coordinates
+            // based on the feature found
+            var popup_site = new mapboxgl.Popup()
+              .setLngLat(feature_site.geometry.coordinates)
+              .setHTML('<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'> ' +
+              'Location: ' + feature_site.properties['name'] + ' <br/>' +
+              'Civilian Involvement: ' + feature_site.properties['isCivilian'] + ' <br/>' +
+              '<div class=\'whitebar\'></div>  ' +
+              'Killing Method: ' + feature_site.properties['method'] + ' </div>')
+              .addTo(map);
+
+        }
+
+    });
+
+    // Use the same approach as above to indicate that the symbols are clickable
+    // by changing the cursor style to 'pointer'
+    map.on('mousemove', function(e) {
+        if (currentdate == 15) {
+            var features = map.queryRenderedFeatures(e.point, { layers: ['final', 'killsites'] });
+            map.getCanvas().style.cursor = features.length ? 'pointer' : '';
+        }
+      
+    });
+
+    function animateMarker(timestamp) {
+        setTimeout(function(){
+            requestAnimationFrame(animateMarker);
+
+            radius += (maxRadius - radius) / framesPerSecond;
+            opacity -= ( .9 / framesPerSecond );
+            opacity = Math.min(Math.max(opacity, 0), 1);
+
+            map.setPaintProperty('killings', 'circle-radius', radius);
+            map.setPaintProperty('killings', 'circle-opacity', opacity);
+
+            if (opacity <= 0) {
+                radius = initialRadius;
+                opacity = initialOpacity;
+            } 
+
+        }, 1000 / framesPerSecond);
+        
+    }
+
+
+    document.getElementById('slider').addEventListener('input', function(e) {
+        var date = parseInt(e.target.value, 10);
+        filterBy(date);  
+    });
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lhoknga Beach",
+        "method" : ["decapitation", "gunshot"],
+        "isCivilian" : false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.241739,
+          5.465504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Mata Ie",
+        "method" : ["gunshot"],
+        "isCivilian" : false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.397551,
+          5.480370
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Meunasah Lhok",
+        "method" : ["unclear"],
+        "isCivilian" : true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.310732,
+          5.189827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Blang Padang",
+        "method" : ["hacking", "throat-slit"],
+        "isCivilian" : true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.314093,
+          5.552699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cot Panglima",
+        "method" : ["throat-slit", "thrown off cliff"],
+        "isCivilian" : false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.706871,
+          5.050637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Burlintang Mountain",
+        "method" : ["gunshot", "throat-slit", "thrown off cliff"],
+        "isCivilian" : true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.3413,
+          4.0291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tritip Bridge, Takengon",
+        "method" : ["unclear"],
+        "isCivilian" : true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.842983,
+          4.637231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Alu Bane",
+        "method" : ["unclear"],
+        "isCivilian" : true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.798532,
+          3.765480
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ujung Batu",
+        "method" : ["unclear"],
+        "isCivilian" : false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.002637,
+          3.559304
+        ]
+      }
+    }   
+  ]
+}
