@@ -164,7 +164,7 @@
     <div id="map"> </div>
     <div class='map-overlay top'>
         <div class='map-overlay-inner'>
-            <h2>TIMELINE OF PKI PUBLIC KILLINGS</h2>
+            <h2>TIMELINE OF PUBLIC VIOLENCE OUTBREAK AGAINST THE COMMUNISTS</h2>
             <div class='whitebar'></div>  
             <h3 id='date'></h3>
             <input id='slider' type='range' min='3' max='15' step='1' value='0' />
@@ -181,10 +181,10 @@
                 <h3 id='victimlabel'>Public Death Count</h3>         
             </div>
         </div>
-        <div class='map-overlay-inner'>
+        <div class='map-overlay-inner' id="post-outbreak" style="display:none">
             <div id='legend' class='legend'>
                 <span class="x"></span> 
-                <h3 id='victimlabel'>Non-Public Killing Sites</h3>         
+                <h3 id='victimlabel'>Post-Outbreak Killing Sites</h3>         
             </div>
         </div>
     </div>
@@ -211,7 +211,7 @@
 
     function filterBy(date) {
         currentdate = date;
-        console.log("Selected date: "+ date);
+        //console.log("Selected date: "+ date);
         
         var startfilters = ['<=', 'start', currentdate];
         map.setFilter('killings', startfilters);
@@ -227,6 +227,8 @@
         }
 
         else if (date < 15){
+            document.getElementById("post-outbreak").setAttribute("style", "display:none;");
+
             document.getElementById('date').textContent = 
                 "October " + date +", 1965";
             if (isFinal){
@@ -240,6 +242,9 @@
         } 
 
         else {
+
+            document.getElementById("post-outbreak").setAttribute("style", "display:block;");
+
             document.getElementById('date').textContent = 
                 "Total Death Count: 1,941";
 
@@ -377,19 +382,15 @@
 
     // When a click event occurs near a place, open a popup at the location of
     // the feature, with HTML description from its properties
-    map.on('click', function(e) {
-        if (currentdate == 15) {
-            var features = map.queryRenderedFeatures(e.point, { layers: ['final', 'killsites'] });
 
-            // if the features have no info, return nothing
-            if (!features.length) {
-                return;
-            }
+    map.on('click', 'final', function(e){
+        var feature = e.features[0];
 
-            var feature = features[0];
+        if(!feature){
+            return;
+        }
 
-            // Populate the popup and set its coordinates
-            // based on the feature found
+        if (feature.properties['visit']){
             var popup = new mapboxgl.Popup()
               .setLngLat(feature.geometry.coordinates)
               .setHTML('<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'> ' +
@@ -400,29 +401,67 @@
               'Killing Start: October ' + feature.properties['start'] + ' <br/>' +
               'Public Death Count: ' + feature.properties['killcount'] + ' </div>')
               .addTo(map);
-
-           //pop up for another layer
-           var features_site = map.queryRenderedFeatures(e.point, { layers: ['killsites'] });
-
-            // if the features have no info, return nothing
-            if (!features_site.length) {
-                return;
-            }
-
-            var feature_site = features_site[0];
-
-            // Populate the popup and set its coordinates
-            // based on the feature found
-            var popup_site = new mapboxgl.Popup()
-              .setLngLat(feature_site.geometry.coordinates)
+        } else {
+            var popup = new mapboxgl.Popup()
+              .setLngLat(feature.geometry.coordinates)
               .setHTML('<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'> ' +
-              'Location: ' + feature_site.properties['name'] + ' <br/>' +
-              'Civilian Involvement: ' + feature_site.properties['isCivilian'] + ' <br/>' +
+              'Town: ' + feature.properties['city'] + ' <br/>' +
+              'Region: ' + feature.properties['region'] + ' <br/>' +
               '<div class=\'whitebar\'></div>  ' +
-              'Killing Method: ' + feature_site.properties['method'] + ' </div>')
+              'Djuarsa Visit: <i>unrecorded</i> ' + ' <br/>' +
+              'Killing Start: October ' + feature.properties['start'] + ' <br/>' +
+              'Public Death Count: ' + feature.properties['killcount'] + ' </div>')
               .addTo(map);
 
         }
+
+
+
+    });
+
+    map.on('click', 'killsites', function(e){
+        var feature = e.features[0];
+
+        if(!feature){
+            return;
+        }
+
+        var methods= "<i>unrecorded</i>"; //default value
+        var civilian = "No"; //default value
+
+        //if there is any method recorded, parse the
+        //string – basically remove extra characters
+        if (feature.properties['method']){
+            var str = feature.properties['method'];
+            var parsedStr = str.replace(/\"|\[|\]/g,'');
+            var splitStr = parsedStr.split(",");
+
+            methods = ""; //make it an empty string
+
+            for (var i=0; i<splitStr.length; i++){
+                if (i == 0){
+                    methods = splitStr[i];
+                } else {
+                    methods = methods + ", " + splitStr[i];
+                    //console.log(methods);
+                }
+
+            }
+        }
+
+        if (feature.properties['isCivilian']){
+            civilian = "Yes";
+
+        }
+
+        var popup_site = new mapboxgl.Popup()
+          .setLngLat(feature.geometry.coordinates)
+          .setHTML('<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'> ' +
+          'Location: ' + feature.properties['name'] + ' <br/>' +
+          'Civilian Involvement: ' + civilian + ' <br/>' +
+          '<div class=\'whitebar\'></div>  ' +
+          'Killing Method: ' + methods + ' </div>')
+          .addTo(map);
 
     });
 
