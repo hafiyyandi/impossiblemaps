@@ -43,8 +43,8 @@
             <div class='map-overlay-inner slider-inner'>
                 <div class="inner2">
                     <h3>FILTER BY REVENUE</h3>
-                    <input class='fin_slider' id='rev_slider' type='range' min='1' max='425' step='2' value='1' />
-                    more than <span id='rev_sliderval'>$ 1 million</span>
+                    <input class='fin_slider' id='rev_slider' type='range' min='0' max='425' step='2' value='0' />
+                    more than <span id='rev_sliderval'>$ 0 million</span>
                 </div>
             </div>
             <div class='map-overlay-inner slider-inner'>
@@ -407,7 +407,7 @@
             $.ajax({
                 'async': false,
                 'global': false,
-                'url': 'data/financialrating.json',
+                'url': 'data/financialrating2.json',
                 'dataType': "json",
                 'success': function (data) {
                     fin_data = data;
@@ -612,7 +612,7 @@
                             stops:[
                                 // [0,0],
                                 // [assetMax,assetMax/1000]
-                                [revMin, revMin/1000],
+                                [0, 0],
                                 [revMax, revMax/1000]
                             ]
                         },
@@ -816,12 +816,13 @@
         });
 
         $('input[id=rev_slider]').on('input', function () {
+            var revVal = this.value;
             revMasterVal = (parseInt(this.value)) * 1000000;
             masterFilter();
             //console.log(this.value);
             //val = parseInt(this.value);
-            // var sliderval = $('#rev_sliderval');
-            // sliderval.html("$ "+val+" million");
+            var sliderval = $('#rev_sliderval');
+            sliderval.html("$ "+revVal+" million");
 
             // filterval = val * 1000000;
             // var revFilter = ['>=', 'totalRevenue', filterval];
@@ -832,12 +833,13 @@
         });
 
         $('input[id=asset_slider]').on('input', function () {
+            var assetVal = this.value;
             assetMasterVal = (parseInt(this.value)) * 1000000;
             masterFilter();
             //console.log(this.value);
             //val = parseInt(this.value);
-            // var sliderval = $('#asset_sliderval');
-            // sliderval.html("$ "+val+" million");
+            var sliderval = $('#asset_sliderval');
+            sliderval.html("$ "+assetVal+" million");
 
             // filterval = val * 1000000;
             // var assetFilter = ['>=', 'totalNetAssets', filterval];
