@@ -1,0 +1,871 @@
+<!-- Documentation: https://www.mapbox.com/mapbox-gl-js/style-spec/#sources-geojson -->
+<!-- Mapbox styles: https://github.com/mapbox/mapbox-gl-styles -->
+<!-- Earthquake data: https://earthquake.usgs.gov/ -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    <title>Map</title>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' />
+    <link href="https://fonts.googleapis.com/css?family=Chivo" rel="stylesheet">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js'></script>
+    <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+</head>
+
+<body>
+        <div id="map"> </div>
+        <div class='map-overlay top'>
+            <div class='map-overlay-inner'>
+                <div class='switchlegend'>3D</div>
+                <!-- Rectangular switch -->
+                <label class="switch">
+                  <input type="checkbox" name="view">
+                  <span class="slider"></span>
+                </label>
+                <div class='switchlegend'>2D</div>
+            </div>
+            <div class='map-overlay-inner'>
+                <div class='switchlegend'>Rev</div>
+                <!-- Rectangular switch -->
+                <label class="switch">
+                  <input type="checkbox" name="revasset">
+                  <span class="slider"></span>
+                </label>
+                <div class='switchlegend'>Asset</div>
+            </div>
+            <div class='map-overlay-inner'>
+                <div id="choices" class="inner2"></div>
+            </div>
+            <div class='map-overlay-inner slider-inner'>
+                <div class="inner2">
+                    <h3>FILTER BY REVENUE</h3>
+                    <input class='fin_slider' id='rev_slider' type='range' min='1' max='425' step='2' value='1' />
+                    more than <span id='rev_sliderval'>$ 1 million</span>
+                </div>
+            </div>
+            <div class='map-overlay-inner slider-inner'>
+                <div class="inner2">
+                    <h3>FILTER BY ASSET</h3>
+                    <input class='fin_slider' id='asset_slider' type='range' min='0' max='3000' step='2' value='0' />
+                    more than <span id='asset_sliderval'>$ 0 million</span>
+                </div>
+            </div>
+            
+        </div>
+
+        <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        html,
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+
+        .map-overlay {
+            font: 12px/20px 'Chivo', sans-serif;
+            position: absolute;
+            width: 30%;
+            min-width: 190px;
+            top: 0;
+            left: 0;
+            padding: 10px;
+            letter-spacing: 1px;
+        }
+
+        .map-overlay .map-overlay-inner {
+            background-color: #000;
+            color: #eee;
+            box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
+            border-radius: 0px;
+            padding: 10px;
+            width: auto;
+            margin-bottom: 10px;
+            display:inline-flex;
+            /*line-height: 34px;*/
+
+        }
+
+        .map-overlay .slider-inner {
+            background-color: #000;
+            color: #eee;
+            box-shadow:0 1px 2px rgba(0, 0, 0, 0.20);
+            border-radius: 0px;
+            padding: 10px;
+            width: auto;
+            margin-bottom: 10px;
+            display:inline-block;
+            /*line-height: 34px;*/
+
+        }
+
+        .map-overlay .map-overlay-inner .switchlegend{
+            /*margin-top: -10px;*/
+            height: 34px; /*THE SAME AS SWITCH HEIGHT*/
+            width: 20px;
+            vertical-align: middle;
+            line-height: 34px;
+            float:left;
+            clear:both;
+            margin-right: 20px;
+            margin-left: 20px;
+
+        }
+
+        /*VIEW SWITCH*/
+
+        /* The switch - the box around the slider */
+        .switch {
+          position: relative;
+          display: inline-block;
+          width: 60px;
+          height: 34px;
+          float:left;
+          clear:both;
+    /*      margin-left: : 10px;
+          margin-right: : 10px;*/
+        }
+
+        /* Hide default HTML checkbox */
+        .switch input {display:none;}
+
+        /* The slider */
+        .slider {
+          position: absolute;
+          cursor: pointer;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          background-color: #41EC78;
+          -webkit-transition: .4s;
+          transition: .4s;
+        }
+
+        .slider:before {
+          position: absolute;
+          content: "";
+          height: 26px;
+          width: 26px;
+          left: 4px;
+          bottom: 4px;
+          background-color: white;
+          -webkit-transition: .4s;
+          transition: .4s;
+        }
+
+        input:checked + .slider {
+          background-color: #2196F3;
+        }
+
+        input:focus + .slider {
+          box-shadow: 0 0 1px #2196F3;
+        }
+
+        input:checked + .slider:before {
+          -webkit-transform: translateX(26px);
+          -ms-transform: translateX(26px);
+          transform: translateX(26px);
+        }
+
+        
+        .inner2 {
+            padding-left: 15px;
+            padding-bottom: 10px;
+            padding-right: 15px;
+        }
+
+        /*RADIO BUTTON FOR CATEGORIES*/
+
+        /* The container */
+        .categories {
+            display: block;
+            position: relative;
+            padding-left: 35px;
+            /*margin-bottom: 12px;*/
+            cursor: pointer;
+            /*font-size: 22px;*/
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        /* Hide the browser's default radio button */
+        .categories input {
+            position: absolute;
+            opacity: 0;
+            cursor: pointer;
+        }
+
+        /* Create a custom radio button */
+        .checkmark {
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 15px;
+            width: 15px;
+            /*background-color: #FFBF00;*/
+            /*border-radius: 50%;*/
+        }
+
+        .cat0 {
+            background-color: #FFF;
+        }
+
+        .cat3 {
+            background-color: #FFBF00;
+        }
+
+        .cat4 {
+            background-color: #EE6352;
+        }
+
+        .cat5 {
+            background-color: #08B2E3;
+        }
+
+        .cat6 {
+            background-color: #F4D4BF;
+        }
+
+        /* On mouse-over, add a grey background color */
+        .categories:hover input ~ .checkmark {
+            background-color: #ccc;
+        }
+
+        /* When the radio button is checked, add a blue background */
+        .categories input:checked ~ .checkmark {
+            /*background-color: #2196F3;*/
+        }
+
+        /* Create the indicator (the dot/circle - hidden when not checked) */
+        .checkmark:after {
+            content: "";
+            position: absolute;
+            display: none;
+        }
+
+        /* Show the indicator (dot/circle) when checked */
+        .categories input:checked ~ .checkmark:after {
+            display: block;
+        }
+
+        /* Style the indicator (dot/circle) */
+        .categories .checkmark:after {
+            top: 4px;
+            left: 4px;
+            width: 7px;
+            height: 7px;
+            /*border-radius: 50%;*/
+            background: #000;
+        }
+
+        /*FINANCIAL SLIDER*/
+        .fin_slider {
+            -webkit-appearance: none;
+            width: 100%;
+            height: 5px;
+            border-radius: 0px;   
+            background: #999;
+            outline: none;
+            opacity: 1;
+            -webkit-transition: .2s;
+            transition: opacity .2s;
+        }
+
+        .fin_slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 15px;
+            height: 15px;
+            border-radius: 50%; 
+            background: #fff;
+            cursor: pointer;
+        }
+
+        .fin_slider::-moz-range-thumb {
+            width: 15px;
+            height: 15px;
+            border-radius: 50%;
+            background: #fff;
+            cursor: pointer;
+        }
+
+        /**POP UP*/
+
+        .mapboxgl-popup {
+            color: #eee;
+            max-width: 400px;
+            font: 12px/20px 'Chivo', sans-serif;
+        }
+
+        .mapboxgl-popup-content {
+            background-color: #000;
+            letter-spacing:1px;
+            line-height:1.5;
+            border-radius:0;
+            padding:10px;
+        }
+
+        .mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip {
+            border-top-color: #000;
+        }
+
+        .mapboxgl-popup-close-button {
+            color: #fff;
+        }
+
+        .whitebar {
+            height: 2px;
+            width: 10%;
+            background: #eee;
+            margin-bottom: 0;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+        </style>
+
+        <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoiaGFmaXl5YW5kaSIsImEiOiJjamY5dmY1c2gwbXowMnFvZmJlYmVibGd0In0.djzLVWymjTzvRF6XSFM7uQ';
+
+        var geojson = {
+            "type": "FeatureCollection",
+            "features": []
+        };
+
+        var geojson2D = {
+            "type": "FeatureCollection",
+            "features": []
+        };
+
+        var isRev = true;
+        var is3D = true;
+
+        var catArr = [
+            [3, "Museums", '#FFBF00'],
+            [4, "Performing Arts", '#EE6352'],
+            [5, "Public Broadcasting & Media", '#08B2E3'],
+            [6, "Libraries, Historical Societies, & Landmark Preservation",'#F4D4BF']
+        ];
+        
+        var choices = $('#choices');
+        choices.html('<h3>FILTER BY CATEGORIES</h3>');
+        choices.append('<label class="categories">ALL<input type="radio" name="choices" value="0" checked="checked"/><span class="checkmark cat0"></span> </label>');
+
+        for (var i = 0; i < catArr.length; i++) {
+            choices.append('<label class="categories">'+catArr[i][1]+'<input type="radio" name="choices" value="' + catArr[i][0] + '" /> <span class = "checkmark cat'+catArr[i][0]+'"></span></label>');
+        } 
+
+        var map;
+
+        var lat = '';
+        var lng = '';
+
+        var revArr = [];
+        var assetsArr = [];
+
+        var revMin;
+        var revMax;
+
+        var assetMin;
+        var assetMax;
+
+        var catMasterVal=0;
+        var revMasterVal=1;
+        var assetMasterVal=0;
+
+        var orgs_data = (function () {
+            var orgs_data = null;
+            $.ajax({
+                'async': false,
+                'global': false,
+                'url': 'data/artorg.json',
+                'dataType': "json",
+                'success': function (data) {
+                    orgs_data = data;
+                    console.log("number of orgs: " +orgs_data.length);
+                }
+            });
+
+            return orgs_data;
+            
+        })(); 
+
+        var fin_data = (function () {
+            var fin_data = null;
+            $.ajax({
+                'async': false,
+                'global': false,
+                'url': 'data/financialrating.json',
+                'dataType': "json",
+                'success': function (data) {
+                    fin_data = data;
+                    console.log("number of financial rating available: " +fin_data.length);
+                }
+            });
+
+            return fin_data;
+            
+        })(); 
+
+        var zipcode = (function () {
+            var zipcode = null;
+            $.ajax({
+                'async': false,
+                'global': false,
+                'url': 'data/zipcode.json',
+                'dataType': "json",
+                'success': function (data) {
+                    zipcode = data;
+                    //console.log("number of financial rating available: " +fin_data.length);
+                }
+            });
+
+            return zipcode;
+            
+        })(); 
+
+        // if (orgs_data){
+        //     printNames();
+        // }
+
+        if (fin_data && orgs_data && zipcode){
+            createGeoData();
+        }
+
+
+
+        function createGeoData(){
+            //var count=0;
+            console.log(fin_data.length);
+            for (var i=0; i<fin_data.length; i++){ //!! IMPORTANT: the sequence of data in artorg.json has to be exactly the same as financialrating.json
+                var org_ein = orgs_data[i].ein;
+                var fin_ein = fin_data[i].referenceOrganization.ein;
+                
+                //coordinates
+                var zipData = parseInt(orgs_data[i].mailingAddress.postalCode);
+                var lat;
+                var lng;
+
+                //CURRENT DATA PROPERTIES
+                var charityName = orgs_data[i].charityName;
+                var categoryName = orgs_data[i].category.categoryName;
+                var causeName = orgs_data[i].cause.causeName;
+                var causeID = orgs_data[i].cause.causeID;
+                var nteeType = orgs_data[i].irsClassification.nteeType;
+                var nteeClassification = orgs_data[i].irsClassification.nteeClassification;
+                var streetAddress1 = orgs_data[i].mailingAddress.streetAddress1;
+                var streetAddress2 = orgs_data[i].mailingAddress.streetAddress2;
+
+                var programExpenses = fin_data[i].form990.programExpenses;
+                var totalNetAssets = fin_data[i].form990.totalNetAssets;
+                var totalExpenses = fin_data[i].form990.totalExpenses;
+                var fundraisingExpenses = fin_data[i].form990.fundraisingExpenses;
+                var administrativeExpenses = fin_data[i].form990.administrativeExpenses;
+                var totalRevenue = fin_data[i].form990.totalRevenue;
+
+                revArr.push(totalRevenue);
+                assetsArr.push(totalNetAssets);
+
+                var primaryRevenueGrowth = fin_data[i].financialRating.performanceMetrics.primaryRevenueGrowth;
+                var programExpensesRatio = fin_data[i].financialRating.performanceMetrics.programExpensesRatio;
+                var fundraisingEfficiency = fin_data[i].financialRating.performanceMetrics.fundraisingEfficiency;
+                var liabilitiesToAssetsRatio = fin_data[i].financialRating.performanceMetrics.liabilitiesToAssetsRatio;
+                var administrationExpensesRatio = fin_data[i].financialRating.performanceMetrics.administrationExpensesRatio;
+                var workingCapitalRatio = fin_data[i].financialRating.performanceMetrics.workingCapitalRatio;
+                var programExpensesGrowth = fin_data[i].financialRating.performanceMetrics.programExpensesGrowth;
+
+                for (var j = 0; j<zipcode.length; j++){
+                    if (zipData == zipcode[j].ZIP){
+                        lat = zipcode[j].LAT;
+                        lng = zipcode[j].LNG;
+
+                        //CONVERT COORDINATE INTO CIRCLES
+                        var center = [lng, lat];
+                        var radius = 0.1; //how big is the circle
+                        var options = {steps: 64, units: 'kilometers'};
+                        var circle = turf.circle(center, radius, options);
+                        var coord = turf.getCoords(circle);
+                        
+                        //count++;
+
+                        // console.log("success: "+ i);
+                        // console.log("org: "+org_ein);
+                        // console.log("zip: "+zipData);
+                        // console.log("lat: "+lat);
+                        // console.log("lng: "+lng);
+
+                        //new object to save data features
+                        var newobject = {
+                            "type": "Feature",
+                            "properties": {
+                                "charityName": charityName,
+                                "categoryName": categoryName,
+                                "causeName": causeName,
+                                "causeID": causeID,
+                                "nteeType": nteeType,
+                                "nteeClassification": nteeClassification,
+                                "streetAddress1": streetAddress1,
+                                "streetAddress2": streetAddress2,
+                                "programExpenses": programExpenses,
+                                "totalNetAssets": totalNetAssets,
+                                "totalExpenses": totalExpenses,
+                                "fundraisingExpenses": fundraisingExpenses,
+                                "administrativeExpenses": administrativeExpenses,
+                                "totalRevenue":totalRevenue,
+                                "primaryRevenueGrowth":primaryRevenueGrowth,
+                                "programExpensesRatio": programExpensesRatio,
+                                "fundraisingEfficiency": fundraisingEfficiency,
+                                "liabilitiesToAssetsRatio":liabilitiesToAssetsRatio,
+                                "administrationExpensesRatio":administrationExpensesRatio,
+                                "workingCapitalRatio": workingCapitalRatio,
+                                "programExpensesGrowth": programExpensesGrowth
+                              },
+                            "geometry": {
+                                "type": "Polygon",
+                                "coordinates": coord
+                            }
+                        }
+
+                        //for 2D Data
+                        var newobject2D = {
+                            "type": "Feature",
+                            "properties": newobject.properties,
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [lng,lat]
+                            }
+                        }
+
+                        geojson.features.push(newobject);
+                        geojson2D.features.push(newobject2D);
+                        break;
+                    }
+                }
+
+                if (i == (fin_data.length-1)){
+                    console.log("DONE!");
+                    
+                    revMin = Math.min.apply(null, revArr);
+                    revMax = Math.max.apply(null, revArr);
+
+                    assetMin = Math.min.apply(null, assetsArr);
+                    assetMax = Math.max.apply(null, assetsArr);
+
+                    console.log("revenue: "+revMin + ", " + revMax);
+                    console.log("asset: "+assetMin + ", " + assetMax);
+
+                    console.log(geojson);
+                    createMap();
+
+                }
+            }
+        }
+
+        function createMap(){
+            map = new mapboxgl.Map({ //!!!ONLY CREATE MAP ONCE ALL DATA IS LOADED
+                container: 'map', // you need this
+                style: 'mapbox://styles/examples/cj68bstx01a3r2rndlud0pwpv', // you also need this 
+                center: [-73.997177, 40.750633], // [long, lat] Different than leaflet, different than google maps, same as geojson! 
+                zoom: 10,
+                pitch: 30
+            });   
+
+            map.on('load', function() {
+                map.addSource('orgs', { //id for the dataset
+                    'type': 'geojson',
+                    'data': geojson
+                });
+
+                map.addSource('orgs-2D', { //id for the dataset
+                    'type': 'geojson',
+                    'data': geojson2D
+                });
+
+                map.addLayer({ //REVENUE
+                    'id': 'orgs-3D-REV',
+                    'type': 'fill-extrusion',
+                    'source' : 'orgs',
+                    'paint' : {
+                        'fill-extrusion-color': {
+                          property: 'causeID',
+                          stops: [
+                            [3, '#FFBF00'],
+                            [4, '#EE6352'],
+                            [5, '#08B2E3'],
+                            [6, '#F4D4BF']
+                          ]
+                        },
+                        'fill-extrusion-height': {
+                            property: 'totalRevenue',
+                            stops:[
+                                // [0,0],
+                                // [assetMax,assetMax/1000]
+                                [revMin, revMin/1000],
+                                [revMax, revMax/1000]
+                            ]
+                        },
+                        'fill-extrusion-opacity': 0.75
+                    }
+                    
+                });
+
+                map.addLayer({ //ASSET
+                    'id': 'orgs-3D-ASSET',
+                    'type': 'fill-extrusion',
+                    'source' : 'orgs',
+                    'paint' : {
+                        'fill-extrusion-color': {
+                          property: 'causeID',
+                          stops: [
+                            [3, '#FFBF00'],
+                            [4, '#EE6352'],
+                            [5, '#08B2E3'],
+                            [6, '#F4D4BF']
+                          ]
+                        },
+                        'fill-extrusion-height': {
+                            property: 'totalNetAssets',
+                            stops:[
+                                // [0,0],
+                                // [assetMax,assetMax/1000]
+                                [0, 0/1000],
+                                [assetMax, assetMax/1000]
+                            ]
+                        },
+                        'fill-extrusion-opacity': 0.75
+                    }
+                    
+                });
+
+                map.addLayer({
+                    'id': 'orgs-2D',
+                    'type': 'circle',
+                    'source' : 'orgs-2D',
+                    'paint' : {
+                        'circle-radius':5,
+                        'circle-opacity': 0.5,
+                        'circle-color': {
+                          property: 'causeID',
+                          stops: [
+                            [3, '#FFBF00'],
+                            [4, '#EE6352'],
+                            [5, '#08B2E3'],
+                            [6, '#F4D4BF']
+                          ]
+                        }
+                    }
+                    
+                });
+
+                map.easeTo({
+                  duration: 1000,
+                  pitch: 60,
+                  bearing: 0,
+                  easing: (t) => {
+                    return t * (2 - t);
+                  }
+                }); 
+
+                map.setLayoutProperty('orgs-2D', 'visibility', 'none');
+                map.setLayoutProperty('orgs-3D-ASSET', 'visibility', 'none');
+
+
+            });
+
+            map.on('click', 'orgs-2D', function(e){
+                var feature = e.features[0];
+
+                if(!feature){
+                    return;
+                }
+
+                var rev = feature.properties['totalRevenue'].toLocaleString();
+                var exp = feature.properties['totalExpenses'].toLocaleString();
+                var asset = feature.properties['totalNetAssets'].toLocaleString();
+
+                var popup = new mapboxgl.Popup()
+                  .setLngLat(feature.geometry.coordinates)
+                  .setHTML('<div id=\'popup\' class=\'popup\' style=\'z-index: 10;\'> ' +
+                  'Name: ' + feature.properties['charityName'] + ' <br/>' +
+                  '<div class=\'whitebar\'></div>  ' +
+                  'Total Rev: $ ' + rev + ' <br/>' +
+                  'Total Expenses: $ ' + exp + ' <br/>' +
+                  'Total Assets: $ ' + asset + ' <br/>' +
+                  '<div class=\'whitebar\'></div>  ' +
+                  'Program Expenses Ratio: ' + feature.properties['programExpensesRatio'] + ' <br/>' +
+                  'Fundraising Efficiency: ' + feature.properties['fundraisingEfficiency'] + ' <br/>' +
+                  'Liabilities/Assets: ' + feature.properties['liabilitiesToAssetsRatio'] + ' </div>')
+                  .addTo(map);
+                
+            });  
+                  
+        }
+
+        function printNames(){ //print all the data recorded in the main JSON
+            for (var i =0; i<orgs_data.length; i++){
+                //console.log("HELLO")
+                var name = orgs_data[i].charityName;
+                var ein = orgs_data[i].ein;
+                var ratingID = orgs_data[i].currentRating.ratingID;
+                //console.log("https://api.data.charitynavigator.org/v2/Organizations/"+ein+"?app_id=f1e48af6&app_key=a9156e11f2010dbcb3b6e6f1ba0d249b");
+                //console.log("https://api.data.charitynavigator.org/v2/Organizations/"+ein+"/Ratings/"+ratingID+"?app_id=f1e48af6&app_key=a9156e11f2010dbcb3b6e6f1ba0d249b");
+                //console.log("Name: "+ name);
+                //console.log("Ein: " + ein);
+                //console.log("ratingID: "+ ratingID);
+            }
+        }
+
+        $('input[name=view]').change(function(){
+            if($(this).is(':checked')) {
+                //2D VIEW
+                map.easeTo({
+                  duration: 2000,
+                  pitch: 0,
+                  bearing: 0,
+                  easing: (t) => {
+                    return t * (2 - t);
+                  }
+                });
+
+                map.setLayoutProperty('orgs-2D', 'visibility', 'visible');
+                map.setLayoutProperty('orgs-3D-REV', 'visibility', 'none'); 
+                map.setLayoutProperty('orgs-3D-ASSET', 'visibility', 'none'); 
+
+                is3D = false;
+
+            } else {
+                // 3D VIEW
+                map.easeTo({
+                  duration: 2000,
+                  pitch: 60,
+                  bearing: 0,
+                  easing: (t) => {
+                    return t * (2 - t);
+                  }
+                });  
+
+                map.setLayoutProperty('orgs-2D', 'visibility', 'none');
+                if(isRev){
+                    map.setLayoutProperty('orgs-3D-REV', 'visibility', 'visible');  
+                    map.setLayoutProperty('orgs-3D-ASSET', 'visibility', 'none');  
+
+                }else {
+                    map.setLayoutProperty('orgs-3D-REV', 'visibility', 'none');  
+                    map.setLayoutProperty('orgs-3D-ASSET', 'visibility', 'visible');  
+                }
+
+                is3D = true;
+                            
+            }
+        });
+
+
+        $('input[name=revasset]').change(function(){
+            if($(this).is(':checked')) {
+                //ASSET
+                isRev = false;
+                console.log("ASSET");
+
+            } else {
+                //REV
+                isRev = true;
+                console.log("REV");
+            }
+
+            if(is3D){
+                if(isRev){
+                    console.log("revenue view");
+                    map.setLayoutProperty('orgs-3D-REV', 'visibility', 'visible');  
+                    map.setLayoutProperty('orgs-3D-ASSET', 'visibility', 'none'); 
+                } else {
+                    console.log("asset view");
+                    map.setLayoutProperty('orgs-3D-REV', 'visibility', 'none');  
+                    map.setLayoutProperty('orgs-3D-ASSET', 'visibility', 'visible');  
+                }
+            }
+
+        });
+
+        $('input[name=choices]').click(function(){
+            // alert(this.value);
+            catMasterVal = parseInt(this.value);
+            masterFilter();
+            // if (val != 0){
+            //     var catFilter = ['==', 'causeID', val];
+            //     map.setFilter('orgs-2D', catFilter);
+            //     map.setFilter('orgs-3D-ASSET', catFilter);
+            //     map.setFilter('orgs-3D-REV', catFilter);
+            // } else {
+            //     map.setFilter('orgs-2D');
+            //     map.setFilter('orgs-3D-ASSET');
+            //     map.setFilter('orgs-3D-REV');
+
+            // }
+        });
+
+        $('input[id=rev_slider]').on('input', function () {
+            revMasterVal = (parseInt(this.value)) * 1000000;
+            masterFilter();
+            //console.log(this.value);
+            //val = parseInt(this.value);
+            // var sliderval = $('#rev_sliderval');
+            // sliderval.html("$ "+val+" million");
+
+            // filterval = val * 1000000;
+            // var revFilter = ['>=', 'totalRevenue', filterval];
+            // map.setFilter('orgs-2D', revFilter);
+            // map.setFilter('orgs-3D-ASSET', revFilter);
+            // map.setFilter('orgs-3D-REV', revFilter);
+
+        });
+
+        $('input[id=asset_slider]').on('input', function () {
+            assetMasterVal = (parseInt(this.value)) * 1000000;
+            masterFilter();
+            //console.log(this.value);
+            //val = parseInt(this.value);
+            // var sliderval = $('#asset_sliderval');
+            // sliderval.html("$ "+val+" million");
+
+            // filterval = val * 1000000;
+            // var assetFilter = ['>=', 'totalNetAssets', filterval];
+            // map.setFilter('orgs-2D', assetFilter);
+            // map.setFilter('orgs-3D-ASSET', assetFilter);
+            // map.setFilter('orgs-3D-REV', assetFilter);
+
+        });
+
+        function masterFilter(){
+
+            if (catMasterVal!=0){
+                var catFilter = ['==', 'causeID', catMasterVal];
+            } else {
+                var catFilter = ['>=', 'causeID', catMasterVal];
+            }
+            
+            var revFilter = ['>=', 'totalRevenue', revMasterVal];
+            var assetFilter = ['>=', 'totalNetAssets', assetMasterVal];
+
+            var new_Filter = ["all",catFilter, revFilter, assetFilter];
+            
+            map.setFilter('orgs-2D', new_Filter);
+            map.setFilter('orgs-3D-ASSET', new_Filter);
+            map.setFilter('orgs-3D-REV', new_Filter);
+
+        }
+    </script>
+</body>
+
+</html>

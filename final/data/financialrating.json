@@ -1,0 +1,4058 @@
+[
+  {
+    "score": 81.56,
+    "ratingID": 118166,
+    "publicationDate": "2017-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "Democracy Now!",
+      "ein": "010708733",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=11344&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/010708733"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Democracy Now!",
+        "ein": "010708733",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=11344&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/010708733"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 5378576,
+      "totalNetAssets": 19923227,
+      "totalExpenses": 6263707,
+      "fundraisingExpenses": 511547,
+      "administrativeExpenses": 373584,
+      "totalRevenue": 8158144
+    },
+    "financialRating": {
+      "score": 98.05,
+      "rating": 4,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.846,
+        "fundraisingEfficiency": 0.07,
+        "liabilitiesToAssetsRatio": 0.023,
+        "administrationExpensesRatio": 0.063,
+        "workingCapitalRatio": 3.31,
+        "programExpensesGrowth": 0.0405
+      }
+    },
+    "accountabilityRating": {
+      "score": 74,
+      "rating": 2,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Pass",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Fail",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Fail",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 85.44,
+    "ratingID": 127632,
+    "publicationDate": "2018-02-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "Brooklyn Historical Society",
+      "ein": "111630813",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16336&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/111630813"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Brooklyn Historical Society",
+        "ein": "111630813",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16336&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/111630813"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 3552585,
+      "totalNetAssets": 17523325,
+      "totalExpenses": 4545546,
+      "fundraisingExpenses": 579542,
+      "administrativeExpenses": 413419,
+      "totalRevenue": 3344487
+    },
+    "financialRating": {
+      "score": 85.9,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.794,
+        "fundraisingEfficiency": 0.15,
+        "liabilitiesToAssetsRatio": 0.157,
+        "administrationExpensesRatio": 0.093,
+        "workingCapitalRatio": 3.72,
+        "programExpensesGrowth": 0.1119
+      }
+    },
+    "accountabilityRating": {
+      "score": 85,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Fail",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 85.81,
+    "ratingID": 127945,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "Brooklyn Museum",
+      "ein": "111672743",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3393&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/111672743"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Brooklyn Museum",
+        "ein": "111672743",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3393&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/111672743"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 31351682,
+      "totalNetAssets": 272327552,
+      "totalExpenses": 39706428,
+      "fundraisingExpenses": 2877859,
+      "administrativeExpenses": 5476887,
+      "totalRevenue": 41168595
+    },
+    "financialRating": {
+      "score": 86.69,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.788,
+        "fundraisingEfficiency": 0.1,
+        "liabilitiesToAssetsRatio": 0.12,
+        "administrationExpensesRatio": 0.143,
+        "workingCapitalRatio": 5.38,
+        "programExpensesGrowth": 0.0197
+      }
+    },
+    "accountabilityRating": {
+      "score": 85,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Fail",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 83.7,
+    "ratingID": 122879,
+    "publicationDate": "2017-07-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "The Parrish Art Museum",
+      "ein": "111782495",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6697&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/111782495"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "The Parrish Art Museum",
+        "ein": "111782495",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6697&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/111782495"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 4054036,
+      "totalNetAssets": 39067542,
+      "totalExpenses": 6107212,
+      "fundraisingExpenses": 1310919,
+      "administrativeExpenses": 742257,
+      "totalRevenue": 5318292
+    },
+    "financialRating": {
+      "score": 78.39,
+      "rating": 2,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.612,
+        "fundraisingEfficiency": 0.28,
+        "liabilitiesToAssetsRatio": 0.11,
+        "administrationExpensesRatio": 0.192,
+        "workingCapitalRatio": 6.06,
+        "programExpensesGrowth": 0.4462
+      }
+    },
+    "accountabilityRating": {
+      "score": 92,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 88.32,
+    "ratingID": 126700,
+    "publicationDate": "2018-02-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "New York Hall of Science",
+      "ein": "112104059",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4913&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/112104059"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "New York Hall of Science",
+        "ein": "112104059",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4913&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/112104059"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 16377429,
+      "totalNetAssets": 68203832,
+      "totalExpenses": 21945159,
+      "fundraisingExpenses": 3142613,
+      "administrativeExpenses": 2425117,
+      "totalRevenue": 22486240
+    },
+    "financialRating": {
+      "score": 87.68,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.746,
+        "fundraisingEfficiency": 0.18,
+        "liabilitiesToAssetsRatio": 0.032,
+        "administrationExpensesRatio": 0.109,
+        "workingCapitalRatio": 3.17,
+        "programExpensesGrowth": 0.0423
+      }
+    },
+    "accountabilityRating": {
+      "score": 89,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 88.72,
+    "ratingID": 124290,
+    "publicationDate": "2017-10-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "Brooklyn Academy of Music",
+      "ein": "112201344",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3391&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/112201344"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Brooklyn Academy of Music",
+        "ein": "112201344",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3391&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/112201344"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 46977374,
+      "totalNetAssets": 119171738,
+      "totalExpenses": 58819061,
+      "fundraisingExpenses": 7679910,
+      "administrativeExpenses": 4161777,
+      "totalRevenue": 54828839
+    },
+    "financialRating": {
+      "score": 88.45,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.854,
+        "fundraisingEfficiency": 0.19,
+        "liabilitiesToAssetsRatio": 0.077,
+        "administrationExpensesRatio": 0.055,
+        "workingCapitalRatio": 0.46,
+        "programExpensesGrowth": 0.0395
+      }
+    },
+    "accountabilityRating": {
+      "score": 89,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 91.69,
+    "ratingID": 126373,
+    "publicationDate": "2017-12-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "Landmark on Main Street",
+      "ein": "112444833",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15621&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/112444833"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Landmark on Main Street",
+        "ein": "112444833",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15621&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/112444833"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 1206475,
+      "totalNetAssets": 1816581,
+      "totalExpenses": 1453537,
+      "fundraisingExpenses": 86635,
+      "administrativeExpenses": 160427,
+      "totalRevenue": 1467789
+    },
+    "financialRating": {
+      "score": 95.9,
+      "rating": 4,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.831,
+        "fundraisingEfficiency": 0.16,
+        "liabilitiesToAssetsRatio": 0.033,
+        "administrationExpensesRatio": 0.097,
+        "workingCapitalRatio": 1.14,
+        "programExpensesGrowth": 0.0695
+      }
+    },
+    "accountabilityRating": {
+      "score": 89,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 80,
+    "ratingID": 118228,
+    "publicationDate": "2017-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "The Museum of Chinese in America",
+      "ein": "112517055",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=14044&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/112517055"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "The Museum of Chinese in America",
+        "ein": "112517055",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=14044&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/112517055"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 2371448,
+      "totalNetAssets": 3670282,
+      "totalExpenses": 3348019,
+      "fundraisingExpenses": 519491,
+      "administrativeExpenses": 457080,
+      "totalRevenue": 2044476
+    },
+    "financialRating": {
+      "score": 79.05,
+      "rating": 2,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.673,
+        "fundraisingEfficiency": 0.25,
+        "liabilitiesToAssetsRatio": 0.08,
+        "administrationExpensesRatio": 0.144,
+        "workingCapitalRatio": 1.07,
+        "programExpensesGrowth": 0.0781
+      }
+    },
+    "accountabilityRating": {
+      "score": 81,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Fail",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Fail",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 83.81,
+    "ratingID": 128328,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "Museum of the Moving Image",
+      "ein": "112730714",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6706&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/112730714"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Museum of the Moving Image",
+        "ein": "112730714",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6706&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/112730714"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 5905141,
+      "totalNetAssets": 5225000,
+      "totalExpenses": 7297685,
+      "fundraisingExpenses": 487076,
+      "administrativeExpenses": 905468,
+      "totalRevenue": 6832628
+    },
+    "financialRating": {
+      "score": 80.51,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.794,
+        "fundraisingEfficiency": 0.11,
+        "liabilitiesToAssetsRatio": 0.237,
+        "administrationExpensesRatio": 0.128,
+        "workingCapitalRatio": 0.71,
+        "programExpensesGrowth": 0.0311
+      }
+    },
+    "accountabilityRating": {
+      "score": 88,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Fail",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 85.36,
+    "ratingID": 129435,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "Nassau County Museum of Art",
+      "ein": "112949583",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16029&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/112949583"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Nassau County Museum of Art",
+        "ein": "112949583",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16029&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/112949583"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 1792775,
+      "totalNetAssets": 5352977,
+      "totalExpenses": 2370599,
+      "fundraisingExpenses": 214681,
+      "administrativeExpenses": 363143,
+      "totalRevenue": 3053000
+    },
+    "financialRating": {
+      "score": 85.74,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.763,
+        "fundraisingEfficiency": 0.06,
+        "liabilitiesToAssetsRatio": 0.066,
+        "administrationExpensesRatio": 0.146,
+        "workingCapitalRatio": 2.26,
+        "programExpensesGrowth": 0.0178
+      }
+    },
+    "accountabilityRating": {
+      "score": 85,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Fail",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 79.9,
+    "ratingID": 123977,
+    "publicationDate": "2017-09-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/2starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/2stars.png"
+    },
+    "rating": 2,
+    "referenceOrganization": {
+      "charityName": "Long Island Children's Museum",
+      "ein": "113035221",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=7753&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/113035221"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Long Island Children's Museum",
+        "ein": "113035221",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=7753&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/113035221"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 3470290,
+      "totalNetAssets": 2073395,
+      "totalExpenses": 4498099,
+      "fundraisingExpenses": 376718,
+      "administrativeExpenses": 651091,
+      "totalRevenue": 4587900
+    },
+    "financialRating": {
+      "score": 71.87,
+      "rating": 2,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.765,
+        "fundraisingEfficiency": 0.18,
+        "liabilitiesToAssetsRatio": 0.439,
+        "administrationExpensesRatio": 0.147,
+        "workingCapitalRatio": 0.45,
+        "programExpensesGrowth": 0.0034
+      }
+    },
+    "accountabilityRating": {
+      "score": 96,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Fail",
+        "privacyStatus": "Pass",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Fail"
+      }
+    }
+  },
+  {
+    "score": 85.97,
+    "ratingID": 129146,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "Hamptons International Film Festival",
+      "ein": "113133786",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13816&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/113133786"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Hamptons International Film Festival",
+        "ein": "113133786",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13816&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/113133786"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 1280114,
+      "totalNetAssets": 268575,
+      "totalExpenses": 1514024,
+      "fundraisingExpenses": 21486,
+      "administrativeExpenses": 212424,
+      "totalRevenue": 1684636
+    },
+    "financialRating": {
+      "score": 83.5,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.837,
+        "fundraisingEfficiency": 0.02,
+        "liabilitiesToAssetsRatio": 0.205,
+        "administrationExpensesRatio": 0.147,
+        "workingCapitalRatio": 0.18,
+        "programExpensesGrowth": 0.0188
+      }
+    },
+    "accountabilityRating": {
+      "score": 89,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 74.34,
+    "ratingID": 129436,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/2starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/2stars.png"
+    },
+    "rating": 2,
+    "referenceOrganization": {
+      "charityName": "Children's Museum of the East End",
+      "ein": "113431939",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16030&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/113431939"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Children's Museum of the East End",
+        "ein": "113431939",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16030&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/113431939"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 1062560,
+      "totalNetAssets": 2594682,
+      "totalExpenses": 1592386,
+      "fundraisingExpenses": 207242,
+      "administrativeExpenses": 322584,
+      "totalRevenue": 1377194
+    },
+    "financialRating": {
+      "score": 69.09,
+      "rating": 1,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.687,
+        "fundraisingEfficiency": 0.14,
+        "liabilitiesToAssetsRatio": 0.557,
+        "administrationExpensesRatio": 0.19,
+        "workingCapitalRatio": 1.62,
+        "programExpensesGrowth": -0.0007
+      }
+    },
+    "accountabilityRating": {
+      "score": 81,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Fail",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Fail",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 82.54,
+    "ratingID": 122293,
+    "publicationDate": "2017-06-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "New Music USA",
+      "ein": "130432981",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13942&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/130432981"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "New Music USA",
+        "ein": "130432981",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13942&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/130432981"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 2088981,
+      "totalNetAssets": 18588551,
+      "totalExpenses": 2682362,
+      "fundraisingExpenses": 385856,
+      "administrativeExpenses": 207525,
+      "totalRevenue": 3384664
+    },
+    "financialRating": {
+      "score": 88.8,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.783,
+        "fundraisingEfficiency": 0.24,
+        "liabilitiesToAssetsRatio": 0.038,
+        "administrationExpensesRatio": 0.073,
+        "workingCapitalRatio": 1.15,
+        "programExpensesGrowth": 0.0522
+      }
+    },
+    "accountabilityRating": {
+      "score": 78,
+      "rating": 2,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Fail",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Partial",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 91.08,
+    "ratingID": 127063,
+    "publicationDate": "2018-02-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "The School of American Ballet",
+      "ein": "131275970",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9280&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131275970"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "The School of American Ballet",
+        "ein": "131275970",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9280&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131275970"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 11668297,
+      "totalNetAssets": 79499205,
+      "totalExpenses": 16222998,
+      "fundraisingExpenses": 2067768,
+      "administrativeExpenses": 2486933,
+      "totalRevenue": 15591228
+    },
+    "financialRating": {
+      "score": 89.51,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.73,
+        "fundraisingEfficiency": 0.18,
+        "liabilitiesToAssetsRatio": 0.125,
+        "administrationExpensesRatio": 0.142,
+        "workingCapitalRatio": 2.96,
+        "programExpensesGrowth": 0.0594
+      }
+    },
+    "accountabilityRating": {
+      "score": 93,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 81.43,
+    "ratingID": 126571,
+    "publicationDate": "2017-11-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "MasterVoices",
+      "ein": "131606158",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15626&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131606158"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "MasterVoices",
+        "ein": "131606158",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15626&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131606158"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 1145875,
+      "totalNetAssets": 222251,
+      "totalExpenses": 1572769,
+      "fundraisingExpenses": 178995,
+      "administrativeExpenses": 247899,
+      "totalRevenue": 1581967
+    },
+    "financialRating": {
+      "score": 74.05,
+      "rating": 2,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.788,
+        "fundraisingEfficiency": 0.14,
+        "liabilitiesToAssetsRatio": 0.365,
+        "administrationExpensesRatio": 0.105,
+        "workingCapitalRatio": 0.12,
+        "programExpensesGrowth": -0.0217
+      }
+    },
+    "accountabilityRating": {
+      "score": 96,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 92.42,
+    "ratingID": 124332,
+    "publicationDate": "2017-10-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "Metropolitan Museum of Art",
+      "ein": "131624086",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4086&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131624086"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Metropolitan Museum of Art",
+        "ein": "131624086",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4086&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131624086"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 394614998,
+      "totalNetAssets": 3035824735,
+      "totalExpenses": 465875380,
+      "fundraisingExpenses": 13037104,
+      "administrativeExpenses": 58223278,
+      "totalRevenue": 425009982
+    },
+    "financialRating": {
+      "score": 90.06,
+      "rating": 4,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.852,
+        "fundraisingEfficiency": 0.04,
+        "liabilitiesToAssetsRatio": 0.207,
+        "administrationExpensesRatio": 0.122,
+        "workingCapitalRatio": 4.49,
+        "programExpensesGrowth": 0.0406
+      }
+    },
+    "accountabilityRating": {
+      "score": 96,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 93.4,
+    "ratingID": 128258,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "Museum of the City of New York",
+      "ein": "131624098",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=5992&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131624098"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Museum of the City of New York",
+        "ein": "131624098",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=5992&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131624098"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 14524070,
+      "totalNetAssets": 56836762,
+      "totalExpenses": 18011301,
+      "fundraisingExpenses": 1994693,
+      "administrativeExpenses": 1492538,
+      "totalRevenue": 17401351
+    },
+    "financialRating": {
+      "score": 93.84,
+      "rating": 4,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.792,
+        "fundraisingEfficiency": 0.11,
+        "liabilitiesToAssetsRatio": 0.02,
+        "administrationExpensesRatio": 0.088,
+        "workingCapitalRatio": 3.09,
+        "programExpensesGrowth": 0.095
+      }
+    },
+    "accountabilityRating": {
+      "score": 93,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Pass",
+        "ceoCompensationProcedure": "Fail",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 76.66,
+    "ratingID": 128560,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/2starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/2stars.png"
+    },
+    "rating": 2,
+    "referenceOrganization": {
+      "charityName": "French Institute Alliance Française",
+      "ein": "131624099",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8623&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131624099"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "French Institute Alliance Française",
+        "ein": "131624099",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8623&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131624099"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 9540999,
+      "totalNetAssets": 2887281,
+      "totalExpenses": 12464961,
+      "fundraisingExpenses": 812895,
+      "administrativeExpenses": 2111067,
+      "totalRevenue": 11698097
+    },
+    "financialRating": {
+      "score": 70.61,
+      "rating": 2,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.752,
+        "fundraisingEfficiency": 0.32,
+        "liabilitiesToAssetsRatio": 0.864,
+        "administrationExpensesRatio": 0.17,
+        "workingCapitalRatio": 0.22,
+        "programExpensesGrowth": 0.0391
+      }
+    },
+    "accountabilityRating": {
+      "score": 85,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Fail",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 90.13,
+    "ratingID": 128038,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "The Museum of Modern Art",
+      "ein": "131624100",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4139&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131624100"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "The Museum of Modern Art",
+        "ein": "131624100",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4139&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131624100"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 196278442,
+      "totalNetAssets": 1413882132,
+      "totalExpenses": 249014873,
+      "fundraisingExpenses": 14028407,
+      "administrativeExpenses": 38708024,
+      "totalRevenue": 408408432
+    },
+    "financialRating": {
+      "score": 87.94,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.763,
+        "fundraisingEfficiency": 0.07,
+        "liabilitiesToAssetsRatio": 0.224,
+        "administrationExpensesRatio": 0.177,
+        "workingCapitalRatio": 4.83,
+        "programExpensesGrowth": 0.0648
+      }
+    },
+    "accountabilityRating": {
+      "score": 93,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 94.67,
+    "ratingID": 125664,
+    "publicationDate": "2017-12-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "The New-York Historical Society",
+      "ein": "131624124",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6484&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131624124"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "The New-York Historical Society",
+        "ein": "131624124",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6484&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131624124"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 29407697,
+      "totalNetAssets": 136006687,
+      "totalExpenses": 34481640,
+      "fundraisingExpenses": 2437148,
+      "administrativeExpenses": 2636795,
+      "totalRevenue": 35614191
+    },
+    "financialRating": {
+      "score": 92.47,
+      "rating": 4,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.871,
+        "fundraisingEfficiency": 0.06,
+        "liabilitiesToAssetsRatio": 0.06,
+        "administrationExpensesRatio": 0.073,
+        "workingCapitalRatio": 2.58,
+        "programExpensesGrowth": 0.0647
+      }
+    },
+    "accountabilityRating": {
+      "score": 100,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Pass",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 87.25,
+    "ratingID": 125476,
+    "publicationDate": "2017-11-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "The Morgan Library & Museum",
+      "ein": "131624146",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4332&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131624146"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "The Morgan Library & Museum",
+        "ein": "131624146",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4332&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131624146"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 18113898,
+      "totalNetAssets": 311794463,
+      "totalExpenses": 24575232,
+      "fundraisingExpenses": 2457842,
+      "administrativeExpenses": 4003492,
+      "totalRevenue": 32170193
+    },
+    "financialRating": {
+      "score": 85.73,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.744,
+        "fundraisingEfficiency": 0.11,
+        "liabilitiesToAssetsRatio": 0.056,
+        "administrationExpensesRatio": 0.157,
+        "workingCapitalRatio": 7.21,
+        "programExpensesGrowth": 0.0234
+      }
+    },
+    "accountabilityRating": {
+      "score": 89,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 79.11,
+    "ratingID": 127025,
+    "publicationDate": "2018-02-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/2starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/2stars.png"
+    },
+    "rating": 2,
+    "referenceOrganization": {
+      "charityName": "The National Academy Museum and School of Fine Arts",
+      "ein": "131628183",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8766&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131628183"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "The National Academy Museum and School of Fine Arts",
+        "ein": "131628183",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8766&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131628183"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 4209352,
+      "totalNetAssets": 16466743,
+      "totalExpenses": 5724555,
+      "fundraisingExpenses": 669369,
+      "administrativeExpenses": 845834,
+      "totalRevenue": 3032677
+    },
+    "financialRating": {
+      "score": 74.56,
+      "rating": 2,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.733,
+        "fundraisingEfficiency": 0.33,
+        "liabilitiesToAssetsRatio": 0.08,
+        "administrationExpensesRatio": 0.136,
+        "workingCapitalRatio": 1.77,
+        "programExpensesGrowth": -0.0284
+      }
+    },
+    "accountabilityRating": {
+      "score": 85,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Fail",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 92.23,
+    "ratingID": 120463,
+    "publicationDate": "2017-06-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "The Actors Fund",
+      "ein": "131635251",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=5994&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131635251"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "The Actors Fund",
+        "ein": "131635251",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=5994&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131635251"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 25840684,
+      "totalNetAssets": 51176674,
+      "totalExpenses": 30448680,
+      "fundraisingExpenses": 2846834,
+      "administrativeExpenses": 1761162,
+      "totalRevenue": 37699003
+    },
+    "financialRating": {
+      "score": 89.44,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.859,
+        "fundraisingEfficiency": 0.13,
+        "liabilitiesToAssetsRatio": 0.34,
+        "administrationExpensesRatio": 0.052,
+        "workingCapitalRatio": 1.12,
+        "programExpensesGrowth": 0.0144
+      }
+    },
+    "accountabilityRating": {
+      "score": 97,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Opt-Out",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 93.19,
+    "ratingID": 122996,
+    "publicationDate": "2017-08-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "YIVO Institute for Jewish Research",
+      "ein": "131641082",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8930&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131641082"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "YIVO Institute for Jewish Research",
+        "ein": "131641082",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8930&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131641082"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 2943796,
+      "totalNetAssets": 18880559,
+      "totalExpenses": 3915035,
+      "fundraisingExpenses": 446170,
+      "administrativeExpenses": 525069,
+      "totalRevenue": 4297858
+    },
+    "financialRating": {
+      "score": 91.24,
+      "rating": 4,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.73,
+        "fundraisingEfficiency": 0.11,
+        "liabilitiesToAssetsRatio": 0.01,
+        "administrationExpensesRatio": 0.14,
+        "workingCapitalRatio": 4.4,
+        "programExpensesGrowth": 0.0867
+      }
+    },
+    "accountabilityRating": {
+      "score": 96,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 89.79,
+    "ratingID": 130066,
+    "publicationDate": "2018-04-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "America-Israel Cultural Foundation",
+      "ein": "131664048",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8184&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131664048"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "America-Israel Cultural Foundation",
+        "ein": "131664048",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8184&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131664048"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 1202227,
+      "totalNetAssets": 6194971,
+      "totalExpenses": 1655661,
+      "fundraisingExpenses": 160210,
+      "administrativeExpenses": 293224,
+      "totalRevenue": 1381639
+    },
+    "financialRating": {
+      "score": 87.38,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.846,
+        "fundraisingEfficiency": 0.05,
+        "liabilitiesToAssetsRatio": 0.036,
+        "administrationExpensesRatio": 0.099,
+        "workingCapitalRatio": 0.81,
+        "programExpensesGrowth": -0.1713
+      }
+    },
+    "accountabilityRating": {
+      "score": 93,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Pass",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 83.43,
+    "ratingID": 128064,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "New York Philharmonic",
+      "ein": "131664054",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4326&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131664054"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "New York Philharmonic",
+        "ein": "131664054",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4326&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131664054"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 56559890,
+      "totalNetAssets": 213216102,
+      "totalExpenses": 76731386,
+      "fundraisingExpenses": 4679333,
+      "administrativeExpenses": 15492163,
+      "totalRevenue": 99905929
+    },
+    "financialRating": {
+      "score": 82.01,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.747,
+        "fundraisingEfficiency": 0.07,
+        "liabilitiesToAssetsRatio": 0.262,
+        "administrationExpensesRatio": 0.192,
+        "workingCapitalRatio": 0.57,
+        "programExpensesGrowth": 0.0046
+      }
+    },
+    "accountabilityRating": {
+      "score": 85,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Fail",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Opt-Out",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Fail",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 80.68,
+    "ratingID": 125040,
+    "publicationDate": "2017-11-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "The Metropolitan Opera Guild",
+      "ein": "131681983",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16034&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131681983"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "The Metropolitan Opera Guild",
+        "ein": "131681983",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16034&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131681983"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 11526329,
+      "totalNetAssets": 216462,
+      "totalExpenses": 13367391,
+      "fundraisingExpenses": 303520,
+      "administrativeExpenses": 1537542,
+      "totalRevenue": 11673142
+    },
+    "financialRating": {
+      "score": 72.98,
+      "rating": 2,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.859,
+        "fundraisingEfficiency": 0.03,
+        "liabilitiesToAssetsRatio": 0.986,
+        "administrationExpensesRatio": 0.118,
+        "workingCapitalRatio": -0.02,
+        "programExpensesGrowth": -0.0152
+      }
+    },
+    "accountabilityRating": {
+      "score": 96,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 72.49,
+    "ratingID": 121990,
+    "publicationDate": "2017-06-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/2starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/2stars.png"
+    },
+    "rating": 2,
+    "referenceOrganization": {
+      "charityName": "American Jewish Historical Society",
+      "ein": "131764804",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8191&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131764804"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "American Jewish Historical Society",
+        "ein": "131764804",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8191&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131764804"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 770445,
+      "totalNetAssets": 4845561,
+      "totalExpenses": 1789011,
+      "fundraisingExpenses": 340641,
+      "administrativeExpenses": 677925,
+      "totalRevenue": 1742912
+    },
+    "financialRating": {
+      "score": 61.94,
+      "rating": 1,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.568,
+        "fundraisingEfficiency": 0.18,
+        "liabilitiesToAssetsRatio": 0.113,
+        "administrationExpensesRatio": 0.295,
+        "workingCapitalRatio": 2.18,
+        "programExpensesGrowth": -0.1293
+      }
+    },
+    "accountabilityRating": {
+      "score": 92,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 92.29,
+    "ratingID": 128107,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "Whitney Museum of American Art",
+      "ein": "131789318",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4732&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131789318"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Whitney Museum of American Art",
+        "ein": "131789318",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4732&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131789318"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 55430000,
+      "totalNetAssets": 732286000,
+      "totalExpenses": 76839000,
+      "fundraisingExpenses": 8160000,
+      "administrativeExpenses": 13249000,
+      "totalRevenue": 88056000
+    },
+    "financialRating": {
+      "score": 92.6,
+      "rating": 4,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.751,
+        "fundraisingEfficiency": 0.06,
+        "liabilitiesToAssetsRatio": 0.17,
+        "administrationExpensesRatio": 0.14,
+        "workingCapitalRatio": 8.15,
+        "programExpensesGrowth": 0.2135
+      }
+    },
+    "accountabilityRating": {
+      "score": 92,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Fail",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 90.8,
+    "ratingID": 128053,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "The Public Theater/New York Shakespeare Festival",
+      "ein": "131844852",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4232&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131844852"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "The Public Theater/New York Shakespeare Festival",
+        "ein": "131844852",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4232&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131844852"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 31827378,
+      "totalNetAssets": 43956603,
+      "totalExpenses": 36224213,
+      "fundraisingExpenses": 2998827,
+      "administrativeExpenses": 1398008,
+      "totalRevenue": 33429320
+    },
+    "financialRating": {
+      "score": 95,
+      "rating": 4,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.879,
+        "fundraisingEfficiency": 0.11,
+        "liabilitiesToAssetsRatio": 0.114,
+        "administrationExpensesRatio": 0.037,
+        "workingCapitalRatio": 0.85,
+        "programExpensesGrowth": 0.1139
+      }
+    },
+    "accountabilityRating": {
+      "score": 88,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Fail",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 90.07,
+    "ratingID": 126634,
+    "publicationDate": "2018-02-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "Lincoln Center for the Performing Arts",
+      "ein": "131847137",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4003&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131847137"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Lincoln Center for the Performing Arts",
+        "ein": "131847137",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4003&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131847137"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 136561411,
+      "totalNetAssets": 385447997,
+      "totalExpenses": 172789822,
+      "fundraisingExpenses": 7708194,
+      "administrativeExpenses": 28520217,
+      "totalRevenue": 168382643
+    },
+    "financialRating": {
+      "score": 86.54,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.792,
+        "fundraisingEfficiency": 0.14,
+        "liabilitiesToAssetsRatio": 0.498,
+        "administrationExpensesRatio": 0.133,
+        "workingCapitalRatio": 1.75,
+        "programExpensesGrowth": 0.037
+      }
+    },
+    "accountabilityRating": {
+      "score": 96,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 80.02,
+    "ratingID": 128648,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "Concert Artists Guild",
+      "ein": "131854253",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9262&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131854253"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Concert Artists Guild",
+        "ein": "131854253",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9262&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131854253"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 1271865,
+      "totalNetAssets": 813067,
+      "totalExpenses": 1596181,
+      "fundraisingExpenses": 190629,
+      "administrativeExpenses": 133687,
+      "totalRevenue": 1538396
+    },
+    "financialRating": {
+      "score": 76.07,
+      "rating": 2,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.8,
+        "fundraisingEfficiency": 0.34,
+        "liabilitiesToAssetsRatio": 0.043,
+        "administrationExpensesRatio": 0.089,
+        "workingCapitalRatio": 0.45,
+        "programExpensesGrowth": -0.0254
+      }
+    },
+    "accountabilityRating": {
+      "score": 85,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Fail",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 84.46,
+    "ratingID": 128901,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "The Explorers Club",
+      "ein": "131866795",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=11683&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131866795"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "The Explorers Club",
+        "ein": "131866795",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=11683&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131866795"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 1746894,
+      "totalNetAssets": 7859727,
+      "totalExpenses": 2467181,
+      "fundraisingExpenses": 210282,
+      "administrativeExpenses": 510005,
+      "totalRevenue": 2479259
+    },
+    "financialRating": {
+      "score": 83.94,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.698,
+        "fundraisingEfficiency": 0.1,
+        "liabilitiesToAssetsRatio": 0.016,
+        "administrationExpensesRatio": 0.232,
+        "workingCapitalRatio": 2.05,
+        "programExpensesGrowth": 0.0729
+      }
+    },
+    "accountabilityRating": {
+      "score": 85,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Fail",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 87.6,
+    "ratingID": 128644,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "Academy of American Poets",
+      "ein": "131879953",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9256&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131879953"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Academy of American Poets",
+        "ein": "131879953",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9256&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131879953"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 1380117,
+      "totalNetAssets": 8677833,
+      "totalExpenses": 1855155,
+      "fundraisingExpenses": 216495,
+      "administrativeExpenses": 258543,
+      "totalRevenue": 1791015
+    },
+    "financialRating": {
+      "score": 84.41,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.757,
+        "fundraisingEfficiency": 0.14,
+        "liabilitiesToAssetsRatio": 0.021,
+        "administrationExpensesRatio": 0.137,
+        "workingCapitalRatio": 2.16,
+        "programExpensesGrowth": 0.0007
+      }
+    },
+    "accountabilityRating": {
+      "score": 92,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 86.25,
+    "ratingID": 122707,
+    "publicationDate": "2017-07-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "American Ballet Theatre",
+      "ein": "131882106",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3335&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131882106"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "American Ballet Theatre",
+        "ein": "131882106",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3335&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131882106"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 38437646,
+      "totalNetAssets": 28891872,
+      "totalExpenses": 43494765,
+      "fundraisingExpenses": 3291065,
+      "administrativeExpenses": 1766054,
+      "totalRevenue": 40163210
+    },
+    "financialRating": {
+      "score": 82.28,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.893,
+        "fundraisingEfficiency": 0.16,
+        "liabilitiesToAssetsRatio": 0.298,
+        "administrationExpensesRatio": 0.038,
+        "workingCapitalRatio": 0.24,
+        "programExpensesGrowth": 0.0178
+      }
+    },
+    "accountabilityRating": {
+      "score": 92,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 91.41,
+    "ratingID": 126676,
+    "publicationDate": "2018-02-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "The New York Public Library",
+      "ein": "131887440",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4550&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131887440"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "The New York Public Library",
+        "ein": "131887440",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4550&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131887440"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 285247739,
+      "totalNetAssets": 1263731441,
+      "totalExpenses": 335204862,
+      "fundraisingExpenses": 11147735,
+      "administrativeExpenses": 38809388,
+      "totalRevenue": 299847872
+    },
+    "financialRating": {
+      "score": 88.24,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.849,
+        "fundraisingEfficiency": 0.04,
+        "liabilitiesToAssetsRatio": 0.227,
+        "administrationExpensesRatio": 0.118,
+        "workingCapitalRatio": 2.56,
+        "programExpensesGrowth": 0.0477
+      }
+    },
+    "accountabilityRating": {
+      "score": 97,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Opt-Out",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 87.58,
+    "ratingID": 129349,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "American Theatre Wing",
+      "ein": "131893906",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15445&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131893906"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "American Theatre Wing",
+        "ein": "131893906",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15445&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131893906"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 1644500,
+      "totalNetAssets": 10057625,
+      "totalExpenses": 2279806,
+      "fundraisingExpenses": 377362,
+      "administrativeExpenses": 257944,
+      "totalRevenue": 3361522
+    },
+    "financialRating": {
+      "score": 86.31,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.721,
+        "fundraisingEfficiency": 0.2,
+        "liabilitiesToAssetsRatio": 0.051,
+        "administrationExpensesRatio": 0.118,
+        "workingCapitalRatio": 4.84,
+        "programExpensesGrowth": 0.1604
+      }
+    },
+    "accountabilityRating": {
+      "score": 89,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 87.68,
+    "ratingID": 124623,
+    "publicationDate": "2017-11-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "Young Concert Artists",
+      "ein": "131951681",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9283&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131951681"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Young Concert Artists",
+        "ein": "131951681",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9283&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131951681"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 2455031,
+      "totalNetAssets": 9607183,
+      "totalExpenses": 3078260,
+      "fundraisingExpenses": 406943,
+      "administrativeExpenses": 216286,
+      "totalRevenue": 2946396
+    },
+    "financialRating": {
+      "score": 87.38,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.774,
+        "fundraisingEfficiency": 0.32,
+        "liabilitiesToAssetsRatio": 0.008,
+        "administrationExpensesRatio": 0.079,
+        "workingCapitalRatio": 1.09,
+        "programExpensesGrowth": 0.0506
+      }
+    },
+    "accountabilityRating": {
+      "score": 88,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Fail",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 76.28,
+    "ratingID": 127070,
+    "publicationDate": "2017-12-22T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/2starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/2stars.png"
+    },
+    "rating": 2,
+    "referenceOrganization": {
+      "charityName": "American Symphony Orchestra",
+      "ein": "131969375",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9355&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131969375"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "American Symphony Orchestra",
+        "ein": "131969375",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9355&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131969375"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 2817634,
+      "totalNetAssets": -974727,
+      "totalExpenses": 3202080,
+      "fundraisingExpenses": 34160,
+      "administrativeExpenses": 350286,
+      "totalRevenue": 3159068
+    },
+    "financialRating": {
+      "score": 70,
+      "rating": 2,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.856,
+        "fundraisingEfficiency": 0.02,
+        "liabilitiesToAssetsRatio": 1.433,
+        "administrationExpensesRatio": 0.132,
+        "workingCapitalRatio": -0.23,
+        "programExpensesGrowth": -0.1129
+      }
+    },
+    "accountabilityRating": {
+      "score": 85,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Fail",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 89.66,
+    "ratingID": 130480,
+    "publicationDate": "2018-04-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "Foundation for Contemporary Arts",
+      "ein": "131978163",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16035&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131978163"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Foundation for Contemporary Arts",
+        "ein": "131978163",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16035&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131978163"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 1193105,
+      "totalNetAssets": 24243362,
+      "totalExpenses": 1687444,
+      "fundraisingExpenses": 152338,
+      "administrativeExpenses": 342001,
+      "totalRevenue": 2923535
+    },
+    "financialRating": {
+      "score": 90.37,
+      "rating": 4,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.721,
+        "fundraisingEfficiency": 0.05,
+        "liabilitiesToAssetsRatio": 0.028,
+        "administrationExpensesRatio": 0.192,
+        "workingCapitalRatio": 13.06,
+        "programExpensesGrowth": 0.0706
+      }
+    },
+    "accountabilityRating": {
+      "score": 89,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 90.77,
+    "ratingID": 125523,
+    "publicationDate": "2017-11-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "American Folk Art Museum",
+      "ein": "131985627",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4951&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131985627"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "American Folk Art Museum",
+        "ein": "131985627",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4951&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131985627"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 2823649,
+      "totalNetAssets": 10455524,
+      "totalExpenses": 3884833,
+      "fundraisingExpenses": 373347,
+      "administrativeExpenses": 687837,
+      "totalRevenue": 5420457
+    },
+    "financialRating": {
+      "score": 88.99,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.74,
+        "fundraisingEfficiency": 0.12,
+        "liabilitiesToAssetsRatio": 0.032,
+        "administrationExpensesRatio": 0.156,
+        "workingCapitalRatio": 1.34,
+        "programExpensesGrowth": 0.0822
+      }
+    },
+    "accountabilityRating": {
+      "score": 93,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 88.5,
+    "ratingID": 120415,
+    "publicationDate": "2017-06-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "World Monuments Fund",
+      "ein": "132571900",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4956&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132571900"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "World Monuments Fund",
+        "ein": "132571900",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4956&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132571900"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 12708232,
+      "totalNetAssets": 44420488,
+      "totalExpenses": 16573529,
+      "fundraisingExpenses": 1877511,
+      "administrativeExpenses": 1987786,
+      "totalRevenue": 10159535
+    },
+    "financialRating": {
+      "score": 84.02,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.816,
+        "fundraisingEfficiency": 0.16,
+        "liabilitiesToAssetsRatio": 0.027,
+        "administrationExpensesRatio": 0.084,
+        "workingCapitalRatio": 1.05,
+        "programExpensesGrowth": -0.0616
+      }
+    },
+    "accountabilityRating": {
+      "score": 97,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Opt-Out",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 90.93,
+    "ratingID": 126982,
+    "publicationDate": "2017-12-22T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "Alvin Ailey Dance Foundation",
+      "ein": "132584273",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8185&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132584273"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Alvin Ailey Dance Foundation",
+        "ein": "132584273",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8185&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132584273"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 32752747,
+      "totalNetAssets": 170006048,
+      "totalExpenses": 39463206,
+      "fundraisingExpenses": 2365126,
+      "administrativeExpenses": 4345333,
+      "totalRevenue": 39394018
+    },
+    "financialRating": {
+      "score": 93.41,
+      "rating": 4,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.825,
+        "fundraisingEfficiency": 0.1,
+        "liabilitiesToAssetsRatio": 0.094,
+        "administrationExpensesRatio": 0.117,
+        "workingCapitalRatio": 3.26,
+        "programExpensesGrowth": 0.0463
+      }
+    },
+    "accountabilityRating": {
+      "score": 89,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 81.92,
+    "ratingID": 124123,
+    "publicationDate": "2017-09-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "Studio Museum in Harlem",
+      "ein": "132590805",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15629&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132590805"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Studio Museum in Harlem",
+        "ein": "132590805",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15629&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132590805"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 4365722,
+      "totalNetAssets": 26391360,
+      "totalExpenses": 7054205,
+      "fundraisingExpenses": 1920468,
+      "administrativeExpenses": 768015,
+      "totalRevenue": 18501821
+    },
+    "financialRating": {
+      "score": 74.76,
+      "rating": 2,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.644,
+        "fundraisingEfficiency": 0.16,
+        "liabilitiesToAssetsRatio": 0.06,
+        "administrationExpensesRatio": 0.104,
+        "workingCapitalRatio": 3.07,
+        "programExpensesGrowth": 0.044
+      }
+    },
+    "accountabilityRating": {
+      "score": 96,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 82.13,
+    "ratingID": 121884,
+    "publicationDate": "2017-06-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "South Street Seaport Museum",
+      "ein": "132596500",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6001&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132596500"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "South Street Seaport Museum",
+        "ein": "132596500",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6001&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132596500"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 1974817,
+      "totalNetAssets": 16558462,
+      "totalExpenses": 3179707,
+      "fundraisingExpenses": 195322,
+      "administrativeExpenses": 1009568,
+      "totalRevenue": 2481547
+    },
+    "financialRating": {
+      "score": 82.28,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.645,
+        "fundraisingEfficiency": 0.16,
+        "liabilitiesToAssetsRatio": 0.027,
+        "administrationExpensesRatio": 0.297,
+        "workingCapitalRatio": 4.73,
+        "programExpensesGrowth": 0.0439
+      }
+    },
+    "accountabilityRating": {
+      "score": 82,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Fail",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Fail",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 91.54,
+    "ratingID": 114130,
+    "publicationDate": "2016-10-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "Chamber Music Society of Lincoln Center",
+      "ein": "132628036",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8624&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132628036"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Chamber Music Society of Lincoln Center",
+        "ein": "132628036",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8624&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132628036"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 6287252,
+      "totalNetAssets": 48073340,
+      "totalExpenses": 7935579,
+      "fundraisingExpenses": 780459,
+      "administrativeExpenses": 867868,
+      "totalRevenue": 16022599
+    },
+    "financialRating": {
+      "score": 95.3,
+      "rating": 4,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.773,
+        "fundraisingEfficiency": 0.14,
+        "liabilitiesToAssetsRatio": 0.035,
+        "administrationExpensesRatio": 0.132,
+        "workingCapitalRatio": 4.37,
+        "programExpensesGrowth": 0.1019
+      }
+    },
+    "accountabilityRating": {
+      "score": 89,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 76.6,
+    "ratingID": 126406,
+    "publicationDate": "2017-12-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/2starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/2stars.png"
+    },
+    "rating": 2,
+    "referenceOrganization": {
+      "charityName": "The Little Orchestra Society",
+      "ein": "132638292",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16037&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132638292"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "The Little Orchestra Society",
+        "ein": "132638292",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16037&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132638292"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 1002924,
+      "totalNetAssets": 41206,
+      "totalExpenses": 1344194,
+      "fundraisingExpenses": 206037,
+      "administrativeExpenses": 135233,
+      "totalRevenue": 1440087
+    },
+    "financialRating": {
+      "score": 68.8,
+      "rating": 1,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.808,
+        "fundraisingEfficiency": 0.16,
+        "liabilitiesToAssetsRatio": 0.882,
+        "administrationExpensesRatio": 0.078,
+        "workingCapitalRatio": 0.02,
+        "programExpensesGrowth": -0.2026
+      }
+    },
+    "accountabilityRating": {
+      "score": 89,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 83.73,
+    "ratingID": 126862,
+    "publicationDate": "2018-02-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "Dance Theatre of Harlem",
+      "ein": "132642091",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6726&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132642091"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Dance Theatre of Harlem",
+        "ein": "132642091",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6726&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132642091"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 3714332,
+      "totalNetAssets": 6533197,
+      "totalExpenses": 5088371,
+      "fundraisingExpenses": 350826,
+      "administrativeExpenses": 1023213,
+      "totalRevenue": 6040505
+    },
+    "financialRating": {
+      "score": 82.57,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.765,
+        "fundraisingEfficiency": 0.2,
+        "liabilitiesToAssetsRatio": 0.089,
+        "administrationExpensesRatio": 0.142,
+        "workingCapitalRatio": 1.23,
+        "programExpensesGrowth": -0.038
+      }
+    },
+    "accountabilityRating": {
+      "score": 85,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Fail",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 91.45,
+    "ratingID": 128652,
+    "publicationDate": "2018-03-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "Paul Taylor Dance Foundation",
+      "ein": "132665475",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9275&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132665475"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Paul Taylor Dance Foundation",
+        "ein": "132665475",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9275&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132665475"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 7950066,
+      "totalNetAssets": 7216042,
+      "totalExpenses": 9211316,
+      "fundraisingExpenses": 808831,
+      "administrativeExpenses": 452419,
+      "totalRevenue": 5938841
+    },
+    "financialRating": {
+      "score": 95,
+      "rating": 4,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.86,
+        "fundraisingEfficiency": 0.1,
+        "liabilitiesToAssetsRatio": 0.073,
+        "administrationExpensesRatio": 0.053,
+        "workingCapitalRatio": 0.82,
+        "programExpensesGrowth": 0.1415
+      }
+    },
+    "accountabilityRating": {
+      "score": 89,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 85.92,
+    "ratingID": 124621,
+    "publicationDate": "2017-10-01T04:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+    },
+    "rating": 3,
+    "referenceOrganization": {
+      "charityName": "Poets & Writers",
+      "ein": "132682458",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9276&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132682458"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Poets & Writers",
+        "ein": "132682458",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9276&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132682458"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 3123726,
+      "totalNetAssets": 6728873,
+      "totalExpenses": 3971708,
+      "fundraisingExpenses": 328905,
+      "administrativeExpenses": 519077,
+      "totalRevenue": 3921738
+    },
+    "financialRating": {
+      "score": 83.41,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.788,
+        "fundraisingEfficiency": 0.25,
+        "liabilitiesToAssetsRatio": 0.107,
+        "administrationExpensesRatio": 0.123,
+        "workingCapitalRatio": 0.7,
+        "programExpensesGrowth": 0.0069
+      }
+    },
+    "accountabilityRating": {
+      "score": 89,
+      "rating": 3,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Fail",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Fail",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Fail",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  },
+  {
+    "score": 92.66,
+    "ratingID": 125868,
+    "publicationDate": "2017-12-01T05:00:00.000Z",
+    "ratingImage": {
+      "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+      "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+    },
+    "rating": 4,
+    "referenceOrganization": {
+      "charityName": "Ballet Hispanico",
+      "ein": "132685755",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8939&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132685755"
+        }
+      }
+    },
+    "includedOrganizations": [
+      {
+        "charityName": "Ballet Hispanico",
+        "ein": "132685755",
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8939&utm_source=DataAPI&utm_content=02c960ca",
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132685755"
+          }
+        }
+      }
+    ],
+    "form990": {
+      "programExpenses": 5077367,
+      "totalNetAssets": 6494542,
+      "totalExpenses": 5875061,
+      "fundraisingExpenses": 471466,
+      "administrativeExpenses": 326228,
+      "totalRevenue": 5254101
+    },
+    "financialRating": {
+      "score": 89.62,
+      "rating": 3,
+      "performanceMetrics": {
+        "primaryRevenueGrowth": null,
+        "programExpensesRatio": 0.837,
+        "fundraisingEfficiency": 0.12,
+        "liabilitiesToAssetsRatio": 0.43,
+        "administrationExpensesRatio": 0.08,
+        "workingCapitalRatio": 0.9,
+        "programExpensesGrowth": 0.0804
+      }
+    },
+    "accountabilityRating": {
+      "score": 100,
+      "rating": 4,
+      "accountabilityTests": {
+        "conflictOfInterestPolicy": "Pass",
+        "reportsCEOAndSalary": "Pass",
+        "loansToOrFromOfficers": "Pass",
+        "privacyStatus": "Pass",
+        "ceoCompensationProcedure": "Pass",
+        "form990Status": "Pass",
+        "distributes990ToBoard": "Pass",
+        "independentAudit": "Pass",
+        "loansToOfficers": "Pass",
+        "compensatesBoard": "Pass",
+        "materialDiversionOfAssets": "Pass",
+        "independentBoard": "Pass",
+        "staffListStatus": "Pass",
+        "boardMeetingMinutes": "Pass",
+        "whistleBlowerPolicy": "Pass",
+        "auditedFinancialStatus": "Pass",
+        "recordsRetentionPolicy": "Pass",
+        "boardListStatus": "Pass",
+        "loansFromOfficers": "Pass"
+      }
+    }
+  }
+]

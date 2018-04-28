@@ -1,0 +1,5522 @@
+[
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=010573144&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Janie Brendel & Friends Inc.",
+    "ein": "010573144",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Theater",
+      "deductibilityDetail": null,
+      "nteeCode": "A65",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10009-6143",
+      "streetAddress1": "104 E 7TH ST APT 5",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/010573144/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Janie Brendel & Friends Inc.",
+      "ein": "010573144",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=010573144&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/010573144"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=020623904&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Toy Box Theatre Company Inc.",
+    "ein": "020623904",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Theater",
+      "deductibilityDetail": null,
+      "nteeCode": "A65",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10009-1041",
+      "streetAddress1": "PO BOX 1041",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/020623904/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Toy Box Theatre Company Inc.",
+      "ein": "020623904",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=020623904&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/020623904"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=020764240&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Phagwah Parade & Festival Committee Inc.",
+    "ein": "020764240",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Recreation, Sports, Leisure, Athletics",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Fairs, County and Other",
+      "deductibilityDetail": null,
+      "nteeCode": "N52",
+      "nteeLetter": "N"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "11420-0000",
+      "streetAddress1": "133-20 125TH STREET",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/020764240/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Phagwah Parade & Festival Committee Inc.",
+      "ein": "020764240",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=020764240&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/020764240"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=043691623&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "The Muslim Political Prisoner Defense Committee Inc.",
+    "ein": "043691623",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Food, Agriculture and Nutrition",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": "0",
+      "nteeClassification": "Meals on Wheels",
+      "deductibilityDetail": null,
+      "nteeCode": "K36",
+      "nteeLetter": "K"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10030-2584",
+      "streetAddress1": "124 W 137TH ST APT 1D",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/043691623/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "The Muslim Political Prisoner Defense Committee Inc.",
+      "ein": "043691623",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=043691623&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/043691623"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=043727367&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "DIRECTORS GUILD OF AMERICA COMMERCIALS CONTRACT ADM TR",
+    "ein": "043727367",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are not deductible",
+      "subsection": "501(c)(5)",
+      "nteeType": "Employment, Job-Related",
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": "Labor Unions, Organizations",
+      "deductibilityDetail": null,
+      "nteeCode": "J40",
+      "nteeLetter": "J"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10019-5904",
+      "streetAddress1": "1697 BROADWAY",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/043727367/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "DIRECTORS GUILD OF AMERICA COMMERCIALS CONTRACT ADM TR",
+      "ein": "043727367",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=043727367&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/043727367"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=113467650&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Alumni Association of Medgar Evers College",
+    "ein": "113467650",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Educational Institutions and Related Activities",
+      "foundationStatus": "Organization which operates for benefit of college or university and is owned or operated by a governmental unit 170(b)(1)(A)(iv)",
+      "nteeSuffix": null,
+      "nteeClassification": "Alumni Associations",
+      "deductibilityDetail": null,
+      "nteeCode": "B84",
+      "nteeLetter": "B"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10039-3202",
+      "streetAddress1": "2569 ADAM CLAYTON POWELL JR BLVD",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/113467650/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Alumni Association of Medgar Evers College",
+      "ein": "113467650",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=113467650&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/113467650"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=113514174&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "SIGMA BETA RHO FRATERNITY",
+    "ein": "113514174",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are not deductible",
+      "subsection": "501(c)(7)",
+      "nteeType": "Educational Institutions and Related Activities",
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": "Student Sororities, Fraternities",
+      "deductibilityDetail": null,
+      "nteeCode": "B83",
+      "nteeLetter": "B"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10163-4668",
+      "streetAddress1": "PO BOX 4668",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/113514174/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "SIGMA BETA RHO FRATERNITY",
+      "ein": "113514174",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=113514174&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/113514174"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=131489775&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "YALE CLUB OF NEW YORK CITY",
+    "ein": "131489775",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are not deductible",
+      "subsection": "501(c)(7)",
+      "nteeType": null,
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10017-3803",
+      "streetAddress1": "50 VANDERBILT AVENUE",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131489775/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "YALE CLUB OF NEW YORK CITY",
+      "ein": "131489775",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=131489775&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131489775"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=131655254&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Mother A M E Zion Church",
+    "ein": "131655254",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Religion-Related, Spiritual Development",
+      "foundationStatus": "Church 170(b)(1)(A)(i)",
+      "nteeSuffix": "Z",
+      "nteeClassification": "Christian",
+      "deductibilityDetail": null,
+      "nteeCode": "X20",
+      "nteeLetter": "X"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10030-2606",
+      "streetAddress1": "119 W 136TH ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/131655254/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Mother A M E Zion Church",
+      "ein": "131655254",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=131655254&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/131655254"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=132600199&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Legal Services for New York City",
+    "ein": "132600199",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Crime, Legal-Related",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": "Z",
+      "nteeClassification": "Legal Services",
+      "deductibilityDetail": null,
+      "nteeCode": "I80",
+      "nteeLetter": "I"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10013-2904",
+      "streetAddress1": "40 WORTH STREET 6TH FLOOR",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132600199/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Legal Services for New York City",
+      "ein": "132600199",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=132600199&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132600199"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=132605604&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Queens Legal Services Corporation",
+    "ein": "132605604",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Crime, Legal-Related",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": "Z",
+      "nteeClassification": "Public Interest Law, Litigation",
+      "deductibilityDetail": null,
+      "nteeCode": "I83",
+      "nteeLetter": "I"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10013-2904",
+      "streetAddress1": "40 WORTH STREET 6TH FLOOR",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132605604/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Queens Legal Services Corporation",
+      "ein": "132605604",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=132605604&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132605604"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=132605605&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Brooklyn Legal Services Inc.",
+    "ein": "132605605",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Crime, Legal-Related",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": "Z",
+      "nteeClassification": "Public Interest Law, Litigation",
+      "deductibilityDetail": null,
+      "nteeCode": "I83",
+      "nteeLetter": "I"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10013-2904",
+      "streetAddress1": "40 WORTH STREET 6TH FLOOR",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132605605/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Brooklyn Legal Services Inc.",
+      "ein": "132605605",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=132605605&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132605605"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=132613958&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Manhattan Legal Services",
+    "ein": "132613958",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Crime, Legal-Related",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": "Z",
+      "nteeClassification": "Public Interest Law, Litigation",
+      "deductibilityDetail": null,
+      "nteeCode": "I83",
+      "nteeLetter": "I"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10013-2904",
+      "streetAddress1": "40 WORTH STREET 6TH FLOOR",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132613958/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Manhattan Legal Services",
+      "ein": "132613958",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=132613958&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132613958"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=132618568&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "New York Foundation for Senior Citizens Inc.",
+    "ein": "132618568",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Human Services - Multipurpose and Other",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": "0",
+      "nteeClassification": "Senior Centers, Services",
+      "deductibilityDetail": null,
+      "nteeCode": "P81",
+      "nteeLetter": "P"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10007-2817",
+      "streetAddress1": "11 PARK PL RM 1416",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132618568/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "New York Foundation for Senior Citizens Inc.",
+      "ein": "132618568",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=132618568&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132618568"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=132684108&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "James L Varick Community Center Inc.",
+    "ein": "132684108",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Human Services - Multipurpose and Other",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": "Z",
+      "nteeClassification": "Neighborhood Centers, Settlement Houses",
+      "deductibilityDetail": null,
+      "nteeCode": "P28",
+      "nteeLetter": "P"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10030-2606",
+      "streetAddress1": "119 W 136TH ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132684108/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "James L Varick Community Center Inc.",
+      "ein": "132684108",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=132684108&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132684108"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=132947416&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Chinese Dance Company of New York Inc.",
+    "ein": "132947416",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": null,
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10002-7355",
+      "streetAddress1": "65 PIKE STREET",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/132947416/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Chinese Dance Company of New York Inc.",
+      "ein": "132947416",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=132947416&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/132947416"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133114967&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Spanish Christian Church Inc.",
+    "ein": "133114967",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": null,
+      "foundationStatus": "Church 170(b)(1)(A)(i)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10035-4645",
+      "streetAddress1": "1644 PARK AVE",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133114967/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Spanish Christian Church Inc.",
+      "ein": "133114967",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133114967&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133114967"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133160002&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Clio Film Ltd.",
+    "ein": "133160002",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": "Z",
+      "nteeClassification": "Film, Video",
+      "deductibilityDetail": null,
+      "nteeCode": "A31",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10023-3619",
+      "streetAddress1": "246 W END AVE APT 2C",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133160002/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Clio Film Ltd.",
+      "ein": "133160002",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133160002&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133160002"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133255134&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "New York Society for Bioenergetic",
+    "ein": "133255134",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Community Improvement, Capacity Building",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Promotion of Business",
+      "deductibilityDetail": null,
+      "nteeCode": "S41",
+      "nteeLetter": "S"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10025-7020",
+      "streetAddress1": "111 WEST 94 STREET",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133255134/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "New York Society for Bioenergetic",
+      "ein": "133255134",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133255134&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133255134"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133389597&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "The Orthodox Catholic Church in America",
+    "ein": "133389597",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Religion-Related, Spiritual Development",
+      "foundationStatus": "Church 170(b)(1)(A)(i)",
+      "nteeSuffix": "Z",
+      "nteeClassification": "Christian",
+      "deductibilityDetail": null,
+      "nteeCode": "X20",
+      "nteeLetter": "X"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10012-5762",
+      "streetAddress1": "238 MOTT ST APT 3A",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133389597/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "The Orthodox Catholic Church in America",
+      "ein": "133389597",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133389597&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133389597"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133404960&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Latin American Pentecostal Church of God",
+    "ein": "133404960",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Religion-Related, Spiritual Development",
+      "foundationStatus": "Church 170(b)(1)(A)(i)",
+      "nteeSuffix": null,
+      "nteeClassification": "Christian",
+      "deductibilityDetail": null,
+      "nteeCode": "X20",
+      "nteeLetter": "X"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10035-1614",
+      "streetAddress1": "115 E 125TH ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133404960/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Latin American Pentecostal Church of God",
+      "ein": "133404960",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133404960&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133404960"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133424572&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "The People Helpers Inc.",
+    "ein": "133424572",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": null,
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10003-2965",
+      "streetAddress1": "151 FIRST AVE STE 69",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133424572/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "The People Helpers Inc.",
+      "ein": "133424572",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133424572&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133424572"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133429334&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Ballet Who Incorporated",
+    "ein": "133429334",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": null,
+      "foundationStatus": "Private non-operating foundation",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10028-4515",
+      "streetAddress1": "344 E 85TH ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133429334/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Ballet Who Incorporated",
+      "ein": "133429334",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133429334&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133429334"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133466334&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Fiction Inc.",
+    "ein": "133466334",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": null,
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10013-4888",
+      "streetAddress1": "94 BOWERY",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133466334/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Fiction Inc.",
+      "ein": "133466334",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133466334&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133466334"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133489591&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Skymusic Inc.",
+    "ein": "133489591",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": null,
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10023-5918",
+      "streetAddress1": "152 COLUMBUS AVE",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133489591/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Skymusic Inc.",
+      "ein": "133489591",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133489591&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133489591"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133492118&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "TOY SUN DAI WAN BENEVOLENT ASSOCIATION INC",
+    "ein": "133492118",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are not deductible",
+      "subsection": "501(c)(4)",
+      "nteeType": null,
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10013-4149",
+      "streetAddress1": "221 CANAL STREET",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133492118/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "TOY SUN DAI WAN BENEVOLENT ASSOCIATION INC",
+      "ein": "133492118",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133492118&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133492118"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133525959&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Psychoanalytic Research Consortium",
+    "ein": "133525959",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Social Science Research Institutes, Services",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Behavioral Science",
+      "deductibilityDetail": null,
+      "nteeCode": "V23",
+      "nteeLetter": "V"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10128-0709",
+      "streetAddress1": "40 EAST 94TH STREET",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133525959/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Psychoanalytic Research Consortium",
+      "ein": "133525959",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133525959&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133525959"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133569930&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Nuyagi Keetoowah Society Inc.",
+    "ein": "133569930",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Religion-Related, Spiritual Development",
+      "foundationStatus": "Church 170(b)(1)(A)(i)",
+      "nteeSuffix": null,
+      "nteeClassification": "Protestant",
+      "deductibilityDetail": null,
+      "nteeCode": "X21",
+      "nteeLetter": "X"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10023-4324",
+      "streetAddress1": "200 WEST 70TH STREET SUITE 6-C",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133569930/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Nuyagi Keetoowah Society Inc.",
+      "ein": "133569930",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133569930&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133569930"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133666190&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Project Harmony Inc.",
+    "ein": "133666190",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Community Improvement, Capacity Building",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Community, Neighborhood Development, Improvement (General)",
+      "deductibilityDetail": null,
+      "nteeCode": "S20",
+      "nteeLetter": "S"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10027-5408",
+      "streetAddress1": "216 W 122ND ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133666190/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Project Harmony Inc.",
+      "ein": "133666190",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133666190&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133666190"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133831263&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "John-Vincent Peter Copani Memorial Fdn for the Arts",
+    "ein": "133831263",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Arts, Cultural Organizations - Multipurpose",
+      "deductibilityDetail": null,
+      "nteeCode": "A20",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10011-1560",
+      "streetAddress1": "311 WEST 24TH ST SUITE 1-A",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133831263/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "John-Vincent Peter Copani Memorial Fdn for the Arts",
+      "ein": "133831263",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133831263&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133831263"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133911432&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Zaleski Family Foundation",
+    "ein": "133911432",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Philanthropy, Voluntarism and Grantmaking Foundations",
+      "foundationStatus": "Private non-operating foundation",
+      "nteeSuffix": null,
+      "nteeClassification": "Private Grantmaking Foundations",
+      "deductibilityDetail": null,
+      "nteeCode": "T20",
+      "nteeLetter": "T"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10024-1513",
+      "streetAddress1": "300 CENTRAL PARK WEST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133911432/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Zaleski Family Foundation",
+      "ein": "133911432",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133911432&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133911432"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133911474&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "AMERICAN FEDERATION OF GOVENMENT EMPLOYEES",
+    "ein": "133911474",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are not deductible",
+      "subsection": "501(c)(5)",
+      "nteeType": null,
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10007-1823",
+      "streetAddress1": "290 BROADWAY-23RD FL STE UNION OFFI",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133911474/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "AMERICAN FEDERATION OF GOVENMENT EMPLOYEES",
+      "ein": "133911474",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133911474&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133911474"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133942421&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Aulis Collective for Theater and Media Inc.",
+    "ein": "133942421",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Theater",
+      "deductibilityDetail": null,
+      "nteeCode": "A65",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10012-3414",
+      "streetAddress1": "274 MOTT STREET",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133942421/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Aulis Collective for Theater and Media Inc.",
+      "ein": "133942421",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133942421&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133942421"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133967587&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Takako and Paul Richards Foundation Inc.",
+    "ein": "133967587",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Philanthropy, Voluntarism and Grantmaking Foundations",
+      "foundationStatus": "Private non-operating foundation",
+      "nteeSuffix": "Z",
+      "nteeClassification": "Private Grantmaking Foundations",
+      "deductibilityDetail": null,
+      "nteeCode": "T20",
+      "nteeLetter": "T"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10023-7137",
+      "streetAddress1": "20 W 64TH ST APT 29E",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133967587/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Takako and Paul Richards Foundation Inc.",
+      "ein": "133967587",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133967587&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133967587"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133976418&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "The Morganscott Ballet Company Inc.",
+    "ein": "133976418",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": null,
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10101-1796",
+      "streetAddress1": "PO BOX 1796",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/133976418/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "The Morganscott Ballet Company Inc.",
+      "ein": "133976418",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=133976418&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/133976418"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=134041923&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "New York Society of Etchers Inc.",
+    "ein": "134041923",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Visual Arts Organizations",
+      "deductibilityDetail": null,
+      "nteeCode": "A40",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10024-4068",
+      "streetAddress1": "120 WEST 86TH STREET",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/134041923/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "New York Society of Etchers Inc.",
+      "ein": "134041923",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=134041923&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/134041923"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=134075798&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Hague Appeal for Peace Inc.",
+    "ein": "134075798",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "International, Foreign Affairs and National Security",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": "0",
+      "nteeClassification": "International Peace and Security",
+      "deductibilityDetail": null,
+      "nteeCode": "Q40",
+      "nteeLetter": "Q"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10163-0000",
+      "streetAddress1": "7083RD AVE STE 1715",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/134075798/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Hague Appeal for Peace Inc.",
+      "ein": "134075798",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=134075798&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/134075798"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=134084094&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Raga Music Circle of New York Inc.",
+    "ein": "134084094",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Music",
+      "deductibilityDetail": null,
+      "nteeCode": "A68",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10021-4848",
+      "streetAddress1": "530 EAST 72ND STREET 8-G",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/134084094/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Raga Music Circle of New York Inc.",
+      "ein": "134084094",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=134084094&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/134084094"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=134090577&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "SUFI ORDER",
+    "ein": "134090577",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": null,
+      "foundationStatus": "Church 170(b)(1)(A)(i)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10003-0000",
+      "streetAddress1": "223 SECOND AVE 51",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/134090577/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "SUFI ORDER",
+      "ein": "134090577",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=134090577&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/134090577"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=134136054&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Disha Theatre Inc.",
+    "ein": "134136054",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Theater",
+      "deductibilityDetail": null,
+      "nteeCode": "A65",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10031-8013",
+      "streetAddress1": "616 W 137TH ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/134136054/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Disha Theatre Inc.",
+      "ein": "134136054",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=134136054&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/134136054"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=134242090&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Dominican Forum Community Service Inc.",
+    "ein": "134242090",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Human Services - Multipurpose and Other",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Management & Technical Assistance ",
+      "deductibilityDetail": null,
+      "nteeCode": "P02",
+      "nteeLetter": "P"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10034-1616",
+      "streetAddress1": "5030 BROADWAY STE 659",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/134242090/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Dominican Forum Community Service Inc.",
+      "ein": "134242090",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=134242090&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/134242090"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=136121369&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "DERRICKMENS WELFARE FUND LOCAL 197",
+    "ein": "136121369",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are not deductible",
+      "subsection": "501(c)(9)",
+      "nteeType": null,
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10001-1907",
+      "streetAddress1": "253 W 35TH ST - 12TH FL",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/136121369/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "DERRICKMENS WELFARE FUND LOCAL 197",
+      "ein": "136121369",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=136121369&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/136121369"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=136185708&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES",
+    "ein": "136185708",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are not deductible",
+      "subsection": "501(c)(5)",
+      "nteeType": null,
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10010-5011",
+      "streetAddress1": "423 E 23RD RM 9085-S 9TH FL",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/136185708/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES",
+      "ein": "136185708",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=136185708&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/136185708"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=136185767&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "SIGMA THETA TAU INC",
+    "ein": "136185767",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": null,
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10010-4067",
+      "streetAddress1": "433 1ST AVE",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/136185767/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "SIGMA THETA TAU INC",
+      "ein": "136185767",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=136185767&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/136185767"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=141970169&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Simply Sports Inc.",
+    "ein": "141970169",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Recreation, Sports, Leisure, Athletics",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Recreation, Sports, Leisure, Athletics N.E.C.",
+      "deductibilityDetail": null,
+      "nteeCode": "N99",
+      "nteeLetter": "N"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10021-2547",
+      "streetAddress1": "370 E 76TH STREET STE 81403",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/141970169/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Simply Sports Inc.",
+      "ein": "141970169",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=141970169&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/141970169"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=161759590&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Lsny Bronx Corporation",
+    "ein": "161759590",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Educational Institutions and Related Activities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": "0",
+      "nteeClassification": "Education N.E.C.",
+      "deductibilityDetail": null,
+      "nteeCode": "B99",
+      "nteeLetter": "B"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10013-2904",
+      "streetAddress1": "40 WORTH STREET 6TH FLOOR",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/161759590/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Lsny Bronx Corporation",
+      "ein": "161759590",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=161759590&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/161759590"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=200350143&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Valentina Kozlova Dance Foundation Inc.",
+    "ein": "200350143",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Ballet",
+      "deductibilityDetail": null,
+      "nteeCode": "A63",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10019-5515",
+      "streetAddress1": "250 W 54TH ST STE 503",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/200350143/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Valentina Kozlova Dance Foundation Inc.",
+      "ein": "200350143",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=200350143&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/200350143"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=200874976&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Works in Progress Nyc",
+    "ein": "200874976",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Educational Institutions and Related Activities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Education N.E.C.",
+      "deductibilityDetail": null,
+      "nteeCode": "B99",
+      "nteeLetter": "B"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10003-8963",
+      "streetAddress1": "59 EAST 4TH ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/200874976/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Works in Progress Nyc",
+      "ein": "200874976",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=200874976&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/200874976"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=201018205&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Canal Park Conservancy Inc.",
+    "ein": "201018205",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Recreation, Sports, Leisure, Athletics",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Parks and Playgrounds",
+      "deductibilityDetail": null,
+      "nteeCode": "N32",
+      "nteeLetter": "N"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10013-1328",
+      "streetAddress1": "533 CANAL ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/201018205/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Canal Park Conservancy Inc.",
+      "ein": "201018205",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=201018205&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/201018205"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=202360881&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Our Lady of Graces",
+    "ein": "202360881",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Religion-Related, Spiritual Development",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Roman Catholic",
+      "deductibilityDetail": null,
+      "nteeCode": "X22",
+      "nteeLetter": "X"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10001-2801",
+      "streetAddress1": "213 W 30TH ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/202360881/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Our Lady of Graces",
+      "ein": "202360881",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=202360881&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/202360881"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=204354337&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Third Eye Theatre",
+    "ein": "204354337",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Theater",
+      "deductibilityDetail": null,
+      "nteeCode": "A65",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10034-2859",
+      "streetAddress1": "85 SEAMAN AVE APT 1C",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/204354337/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Third Eye Theatre",
+      "ein": "204354337",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=204354337&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/204354337"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=204653733&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Ethnic Book Discussion Group Inc.",
+    "ein": "204653733",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Educational Institutions and Related Activities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Scholarships, Student Financial Aid Services, Awards",
+      "deductibilityDetail": null,
+      "nteeCode": "B82",
+      "nteeLetter": "B"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10028-6458",
+      "streetAddress1": "444 EAST 86TH STREET",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/204653733/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Ethnic Book Discussion Group Inc.",
+      "ein": "204653733",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=204653733&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/204653733"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=205616686&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Alliance of Women Film Journalists Inc.",
+    "ein": "205616686",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Film, Video",
+      "deductibilityDetail": null,
+      "nteeCode": "A31",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10024-0080",
+      "streetAddress1": "PO BOX 80",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/205616686/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Alliance of Women Film Journalists Inc.",
+      "ein": "205616686",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=205616686&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/205616686"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=205679270&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Capital Markets for the Marginalized Inc.",
+    "ein": "205679270",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Philanthropy, Voluntarism and Grantmaking Foundations",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Public Foundations",
+      "deductibilityDetail": null,
+      "nteeCode": "T30",
+      "nteeLetter": "T"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10128-5515",
+      "streetAddress1": "345 E 93 STREET",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/205679270/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Capital Markets for the Marginalized Inc.",
+      "ein": "205679270",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=205679270&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/205679270"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=237182103&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "ROYAL ARCH MASONS OF NEW YORK 140 CONSTITUTION CHAPTER",
+    "ein": "237182103",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are not deductible",
+      "subsection": "501(c)(8)",
+      "nteeType": null,
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10010-4102",
+      "streetAddress1": "71 WEST 23 STREET - BOX 1I",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/237182103/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "ROYAL ARCH MASONS OF NEW YORK 140 CONSTITUTION CHAPTER",
+      "ein": "237182103",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=237182103&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/237182103"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=237310668&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Evangel Baptist Church Inc.",
+    "ein": "237310668",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": null,
+      "foundationStatus": "Church 170(b)(1)(A)(i)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "11413-3103",
+      "streetAddress1": "225-17 143 AVE",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/237310668/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Evangel Baptist Church Inc.",
+      "ein": "237310668",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=237310668&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/237310668"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=237331002&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "POLICE RELIEF FUND INC",
+    "ein": "237331002",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are not deductible",
+      "subsection": "501(c)(4)",
+      "nteeType": null,
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10016-5902",
+      "streetAddress1": "3 PARK AVENUE",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/237331002/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "POLICE RELIEF FUND INC",
+      "ein": "237331002",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=237331002&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/237331002"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=237536457&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "ANCIENT EGYPTIAN ARABIC ORDER NOBLES MYSTIC SHRINE OF N & S AMER",
+    "ein": "237536457",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(8)",
+      "nteeType": null,
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10032-6303",
+      "streetAddress1": "454 W 155TH ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/237536457/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "ANCIENT EGYPTIAN ARABIC ORDER NOBLES MYSTIC SHRINE OF N & S AMER",
+      "ein": "237536457",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=237536457&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/237536457"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=237566346&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "ORDER OF AHEPA",
+    "ein": "237566346",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(8)",
+      "nteeType": null,
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10033-1805",
+      "streetAddress1": "105 PINEHURST AVENUE",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/237566346/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "ORDER OF AHEPA",
+      "ein": "237566346",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=237566346&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/237566346"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=237632241&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "CRYPTIC MASONS OF THE STATE OF NEW YORK INC 7 ADELPHIC",
+    "ein": "237632241",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(8)",
+      "nteeType": null,
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10010-4102",
+      "streetAddress1": "71 WEST 23RD STREET - BOX G7",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/237632241/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "CRYPTIC MASONS OF THE STATE OF NEW YORK INC 7 ADELPHIC",
+      "ein": "237632241",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=237632241&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/237632241"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=251916166&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "The Misunderstood Youth Development Center Corporation",
+    "ein": "251916166",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Youth Development",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Youth Development Programs, Other",
+      "deductibilityDetail": null,
+      "nteeCode": "O50",
+      "nteeLetter": "O"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10036-6518",
+      "streetAddress1": "4 TIMES SQUARE 24TH FLR RM 34",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/251916166/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "The Misunderstood Youth Development Center Corporation",
+      "ein": "251916166",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=251916166&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/251916166"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=263367558&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Teen Entrepreneur Boot Camp Inc.",
+    "ein": "263367558",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Youth Development",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Youth Development - Business",
+      "deductibilityDetail": null,
+      "nteeCode": "O53",
+      "nteeLetter": "O"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10038-1505",
+      "streetAddress1": "145 NASSAU STREET",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/263367558/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Teen Entrepreneur Boot Camp Inc.",
+      "ein": "263367558",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=263367558&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/263367558"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=264692506&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "100cameras Inc.",
+    "ein": "264692506",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Youth Development",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Youth Development Programs, Other",
+      "deductibilityDetail": null,
+      "nteeCode": "O50",
+      "nteeLetter": "O"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10001-1141",
+      "streetAddress1": "601 W 26TH ST RM 325 # 211",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/264692506/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "100cameras Inc.",
+      "ein": "264692506",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=264692506&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/264692506"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=271355701&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Fulphil the Mind Inc.",
+    "ein": "271355701",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Educational Institutions and Related Activities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Educational Services and Schools - Other",
+      "deductibilityDetail": null,
+      "nteeCode": "B90",
+      "nteeLetter": "B"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10003-1502",
+      "streetAddress1": "228 PARK AVENUE SOUTH 35565",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/271355701/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Fulphil the Mind Inc.",
+      "ein": "271355701",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=271355701&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/271355701"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=273130954&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Hiv Experience Resources Organization Inc.",
+    "ein": "273130954",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": null,
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10018-5237",
+      "streetAddress1": "320 W 38TH ST APT 1912",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/273130954/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Hiv Experience Resources Organization Inc.",
+      "ein": "273130954",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=273130954&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/273130954"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=273422908&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Harlem H2o Foundation Inc.",
+    "ein": "273422908",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Human Services - Multipurpose and Other",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Human Service Organizations - Multipurpose",
+      "deductibilityDetail": null,
+      "nteeCode": "P20",
+      "nteeLetter": "P"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10031-0000",
+      "streetAddress1": "1785 AMSTERDAM AVENUE GARDEN LEVEL",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/273422908/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Harlem H2o Foundation Inc.",
+      "ein": "273422908",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=273422908&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/273422908"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=274560778&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Hearts-Of-Fire",
+    "ein": "274560778",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Singing, Choral",
+      "deductibilityDetail": null,
+      "nteeCode": "A6B",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10150-6130",
+      "streetAddress1": "PO BOX 6130",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/274560778/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Hearts-Of-Fire",
+      "ein": "274560778",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=274560778&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/274560778"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=331004988&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Classical Dance Alliance Inc.",
+    "ein": "331004988",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Ballet",
+      "deductibilityDetail": null,
+      "nteeCode": "A63",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10025-2766",
+      "streetAddress1": "353 RIVERSIDE DR APT 5A",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/331004988/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Classical Dance Alliance Inc.",
+      "ein": "331004988",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=331004988&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/331004988"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=331129680&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Indykids",
+    "ein": "331129680",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Educational Institutions and Related Activities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Educational Services and Schools - Other",
+      "deductibilityDetail": null,
+      "nteeCode": "B90",
+      "nteeLetter": "B"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10001-1101",
+      "streetAddress1": "601 WEST 26TH ST SUITE 325-283",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/331129680/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Indykids",
+      "ein": "331129680",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=331129680&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/331129680"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=384001401&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "LA PALABRA HC INC",
+    "ein": "384001401",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Deductibility not specified",
+      "subsection": "501(c)(2)",
+      "nteeType": null,
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10118-5999",
+      "streetAddress1": "350 FIFTH 59TH FLOOR",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/384001401/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "LA PALABRA HC INC",
+      "ein": "384001401",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=384001401&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/384001401"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=454376604&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Rockflower Partners Inc.",
+    "ein": "454376604",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Human Services - Multipurpose and Other",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Human Service Organizations - Multipurpose",
+      "deductibilityDetail": null,
+      "nteeCode": "P20",
+      "nteeLetter": "P"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10014-5605",
+      "streetAddress1": "24 CORNELIA STREET",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/454376604/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Rockflower Partners Inc.",
+      "ein": "454376604",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=454376604&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/454376604"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=456420217&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Deborah Remington Charitable Tr for the Visual Arts",
+    "ein": "456420217",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Philanthropy, Voluntarism and Grantmaking Foundations",
+      "foundationStatus": "Private non-operating foundation",
+      "nteeSuffix": null,
+      "nteeClassification": "Private Independent Foundations",
+      "deductibilityDetail": null,
+      "nteeCode": "T22",
+      "nteeLetter": "T"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10019-0000",
+      "streetAddress1": "C/OLISSNER LISSNER 162 W 56TH ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/456420217/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Deborah Remington Charitable Tr for the Visual Arts",
+      "ein": "456420217",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=456420217&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/456420217"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=461395555&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Parents of P94m Assn Inc.",
+    "ein": "461395555",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Educational Institutions and Related Activities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Parent/Teacher Group",
+      "deductibilityDetail": null,
+      "nteeCode": "B94",
+      "nteeLetter": "B"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10280-1503",
+      "streetAddress1": "55 BATTERY PLACE SUITE P094M",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/461395555/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Parents of P94m Assn Inc.",
+      "ein": "461395555",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=461395555&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/461395555"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=461744721&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "New York Guyana Medical and Humanitarian Mission",
+    "ein": "461744721",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "International, Foreign Affairs and National Security",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "International Relief",
+      "deductibilityDetail": null,
+      "nteeCode": "Q33",
+      "nteeLetter": "Q"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10029-0000",
+      "streetAddress1": "87-64 98ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/461744721/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "New York Guyana Medical and Humanitarian Mission",
+      "ein": "461744721",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=461744721&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/461744721"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=462574225&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Africa Iq Inc.",
+    "ein": "462574225",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Employment, Job-Related",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Employment Procurement Assistance, Job Training",
+      "deductibilityDetail": null,
+      "nteeCode": "J20",
+      "nteeLetter": "J"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10013-9424",
+      "streetAddress1": "350 CANAL ST UNIT 1022",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/462574225/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Africa Iq Inc.",
+      "ein": "462574225",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=462574225&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/462574225"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=464145164&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Artsaction Group",
+    "ein": "464145164",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Arts, Cultural Organizations - Multipurpose",
+      "deductibilityDetail": null,
+      "nteeCode": "A20",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10035-3829",
+      "streetAddress1": "1825 MADISON AVENUE",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/464145164/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Artsaction Group",
+      "ein": "464145164",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=464145164&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/464145164"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=464189615&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Neuronetworks Fund Inc.",
+    "ein": "464189615",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Medical Research",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Brain Disorders Research",
+      "deductibilityDetail": null,
+      "nteeCode": "H48",
+      "nteeLetter": "H"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10178-3099",
+      "streetAddress1": "101 PARK AVE FL 30",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/464189615/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Neuronetworks Fund Inc.",
+      "ein": "464189615",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=464189615&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/464189615"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=465355134&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Josephs Path Inc.",
+    "ein": "465355134",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Educational Institutions and Related Activities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Fund Raising and/or Fund Distribution ",
+      "deductibilityDetail": null,
+      "nteeCode": "B12",
+      "nteeLetter": "B"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10023-1986",
+      "streetAddress1": "142 WEST 75TH STREET",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/465355134/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Josephs Path Inc.",
+      "ein": "465355134",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=465355134&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/465355134"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=465473280&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Imagine for Margo Children Without Cancer Inc.",
+    "ein": "465473280",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Health - General and Rehabilitative",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Patient Services - Entertainment, Recreation",
+      "deductibilityDetail": null,
+      "nteeCode": "E86",
+      "nteeLetter": "E"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10016-3528",
+      "streetAddress1": "137 E 36TH ST APT 22K",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/465473280/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Imagine for Margo Children Without Cancer Inc.",
+      "ein": "465473280",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=465473280&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/465473280"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=465719168&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Create X Inc.",
+    "ein": "465719168",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Arts Education",
+      "deductibilityDetail": null,
+      "nteeCode": "A25",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10026-1003",
+      "streetAddress1": "318 W 118TH ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/465719168/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Create X Inc.",
+      "ein": "465719168",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=465719168&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/465719168"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471083100&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Maureen Fleming Company Inc.",
+    "ein": "471083100",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Dance",
+      "deductibilityDetail": null,
+      "nteeCode": "A62",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10003-8906",
+      "streetAddress1": "6 E 2ND ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/471083100/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Maureen Fleming Company Inc.",
+      "ein": "471083100",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471083100&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/471083100"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471103689&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Energime University",
+    "ein": "471103689",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "International, Foreign Affairs and National Security",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "International Development, Relief Services",
+      "deductibilityDetail": null,
+      "nteeCode": "Q30",
+      "nteeLetter": "Q"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10038-1879",
+      "streetAddress1": "80 BEEKMAN ST APT 5D",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/471103689/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Energime University",
+      "ein": "471103689",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471103689&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/471103689"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471219977&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Love for Children Inc.",
+    "ein": "471219977",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Diseases, Disorders, Medical Disciplines",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Cancer",
+      "deductibilityDetail": null,
+      "nteeCode": "G30",
+      "nteeLetter": "G"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10005-1313",
+      "streetAddress1": "40 WALL STREET 28TH FLOOR",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/471219977/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Love for Children Inc.",
+      "ein": "471219977",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471219977&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/471219977"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471577132&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Gay Male Rights Project",
+    "ein": "471577132",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Civil Rights, Social Action, Advocacy",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Lesbian, Gay Rights",
+      "deductibilityDetail": null,
+      "nteeCode": "R26",
+      "nteeLetter": "R"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10014-3817",
+      "streetAddress1": "174 W 4TH ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/471577132/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Gay Male Rights Project",
+      "ein": "471577132",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471577132&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/471577132"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471693156&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Redeemed Christian Church of God Desire of Nations",
+    "ein": "471693156",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Religion-Related, Spiritual Development",
+      "foundationStatus": "Church 170(b)(1)(A)(i)",
+      "nteeSuffix": null,
+      "nteeClassification": "Christian",
+      "deductibilityDetail": null,
+      "nteeCode": "X20",
+      "nteeLetter": "X"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10159-1046",
+      "streetAddress1": "PO BOX A",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/471693156/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Redeemed Christian Church of God Desire of Nations",
+      "ein": "471693156",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471693156&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/471693156"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471743724&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "International Brazilian Opera Company",
+    "ein": "471743724",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Opera",
+      "deductibilityDetail": null,
+      "nteeCode": "A6A",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10026-4159",
+      "streetAddress1": "203 W 111TH ST APT 4A",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/471743724/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "International Brazilian Opera Company",
+      "ein": "471743724",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471743724&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/471743724"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471765971&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "My Bright Futures Inc.",
+    "ein": "471765971",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Educational Institutions and Related Activities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Education N.E.C.",
+      "deductibilityDetail": null,
+      "nteeCode": "B99",
+      "nteeLetter": "B"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10022-4584",
+      "streetAddress1": "135 E 54TH ST APT 7L",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/471765971/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "My Bright Futures Inc.",
+      "ein": "471765971",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471765971&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/471765971"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471934614&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Prism Stage Company Inc.",
+    "ein": "471934614",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Theater",
+      "deductibilityDetail": null,
+      "nteeCode": "A65",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10003-7776",
+      "streetAddress1": "222 EAST 10 STREET",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/471934614/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Prism Stage Company Inc.",
+      "ein": "471934614",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=471934614&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/471934614"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=472103754&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Nyc Kids Project Inc.",
+    "ein": "472103754",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Human Services - Multipurpose and Other",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Children's, Youth Services",
+      "deductibilityDetail": null,
+      "nteeCode": "P30",
+      "nteeLetter": "P"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10011-1578",
+      "streetAddress1": "311 W 24TH ST APT 19H",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/472103754/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Nyc Kids Project Inc.",
+      "ein": "472103754",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=472103754&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/472103754"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=472163347&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "New York Session Symphony Inc.",
+    "ein": "472163347",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Music",
+      "deductibilityDetail": null,
+      "nteeCode": "A68",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10038-2550",
+      "streetAddress1": "222 BROADWAY FL 19",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/472163347/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "New York Session Symphony Inc.",
+      "ein": "472163347",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=472163347&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/472163347"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=473417625&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Sisterlink Collaborative Incorporated",
+    "ein": "473417625",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Human Services - Multipurpose and Other",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Human Service Organizations - Multipurpose",
+      "deductibilityDetail": null,
+      "nteeCode": "P20",
+      "nteeLetter": "P"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10001-7604",
+      "streetAddress1": "244 FIFTH AVE SUITE 2483",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/473417625/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Sisterlink Collaborative Incorporated",
+      "ein": "473417625",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=473417625&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/473417625"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=473583265&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Globe Smart Kids Inc.",
+    "ein": "473583265",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Youth Development",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Youth Development Programs, Other",
+      "deductibilityDetail": null,
+      "nteeCode": "O50",
+      "nteeLetter": "O"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10282-1034",
+      "streetAddress1": "325 N END AVE APT 22C",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/473583265/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Globe Smart Kids Inc.",
+      "ein": "473583265",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=473583265&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/473583265"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=474571968&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "The Luv Dawg Foundation Inc.",
+    "ein": "474571968",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Animal-Related",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Animal Protection and Welfare",
+      "deductibilityDetail": null,
+      "nteeCode": "D20",
+      "nteeLetter": "D"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10038-4885",
+      "streetAddress1": "100 MAIDEN LN APT 1702",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/474571968/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "The Luv Dawg Foundation Inc.",
+      "ein": "474571968",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=474571968&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/474571968"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=474968395&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Natika United States",
+    "ein": "474968395",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Human Services - Multipurpose and Other",
+      "foundationStatus": "Private non-operating foundation",
+      "nteeSuffix": null,
+      "nteeClassification": "Human Services - Multipurpose and Other N.E.C.",
+      "deductibilityDetail": null,
+      "nteeCode": "P99",
+      "nteeLetter": "P"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10033-4708",
+      "streetAddress1": "720 W 181ST ST APT 24",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/474968395/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Natika United States",
+      "ein": "474968395",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=474968395&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/474968395"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=475545581&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "PET RESCUE SQUAD INC",
+    "ein": "475545581",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are not deductible",
+      "subsection": "501(c)(4)",
+      "nteeType": "Animal-Related",
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": "Animal Protection and Welfare",
+      "deductibilityDetail": null,
+      "nteeCode": "D20",
+      "nteeLetter": "D"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10031-2444",
+      "streetAddress1": "730 RIVERSIDE DR APT 1A",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/475545581/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "PET RESCUE SQUAD INC",
+      "ein": "475545581",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=475545581&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/475545581"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=510243754&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "CABRINI HEALTH CARE CENTER",
+    "ein": "510243754",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": null,
+      "foundationStatus": "Church 170(b)(1)(A)(i)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10003-2602",
+      "streetAddress1": "227 E 19TH ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/510243754/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "CABRINI HEALTH CARE CENTER",
+      "ein": "510243754",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=510243754&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/510243754"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=522333917&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "New Amsterdam Musical Association Inc.",
+    "ein": "522333917",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Performing Arts Schools",
+      "deductibilityDetail": null,
+      "nteeCode": "A6E",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10027-2007",
+      "streetAddress1": "107 W 130TH ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/522333917/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "New Amsterdam Musical Association Inc.",
+      "ein": "522333917",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=522333917&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/522333917"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=562291921&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Experimental Theatre Chicago",
+    "ein": "562291921",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Arts, Culture and Humanities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Theater",
+      "deductibilityDetail": null,
+      "nteeCode": "A65",
+      "nteeLetter": "A"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10027-7560",
+      "streetAddress1": "106 CONVENT AVE APT 18",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/562291921/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Experimental Theatre Chicago",
+      "ein": "562291921",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=562291921&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/562291921"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=621129673&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "NATIONAL FILM MARKET",
+    "ein": "621129673",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are not deductible",
+      "subsection": "501(c)(6)",
+      "nteeType": "Community Improvement, Capacity Building",
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": "Promotion of Business",
+      "deductibilityDetail": null,
+      "nteeCode": "S41",
+      "nteeLetter": "S"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10001-3406",
+      "streetAddress1": "132 WEST 31ST ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/621129673/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "NATIONAL FILM MARKET",
+      "ein": "621129673",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=621129673&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/621129673"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=651308598&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Louis and Nancy Hatch Dupree Foundation for the Afghanistan",
+    "ein": "651308598",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "International, Foreign Affairs and National Security",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": "2",
+      "nteeClassification": "Single Organization Support ",
+      "deductibilityDetail": null,
+      "nteeCode": "Q11",
+      "nteeLetter": "Q"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10021-5055",
+      "streetAddress1": "954 LEXINGTON AVE STE 118",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/651308598/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Louis and Nancy Hatch Dupree Foundation for the Afghanistan",
+      "ein": "651308598",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=651308598&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/651308598"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=710963919&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Center on Federal Financial Institutions",
+    "ein": "710963919",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Public, Society Benefit - Multipurpose and Other",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Research Institutes and/or Public Policy Analysis ",
+      "deductibilityDetail": null,
+      "nteeCode": "W05",
+      "nteeLetter": "W"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10014-6344",
+      "streetAddress1": "666 GREENWICH ST APT 717",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/710963919/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Center on Federal Financial Institutions",
+      "ein": "710963919",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=710963919&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/710963919"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=810757288&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Humanity Project Inc.",
+    "ein": "810757288",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Human Services - Multipurpose and Other",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Human Service Organizations - Multipurpose",
+      "deductibilityDetail": null,
+      "nteeCode": "P20",
+      "nteeLetter": "P"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10017-2941",
+      "streetAddress1": "235 E 46TH ST APT 3A",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/810757288/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Humanity Project Inc.",
+      "ein": "810757288",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=810757288&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/810757288"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=810924975&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Collegiate Congress",
+    "ein": "810924975",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Youth Development",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Youth Centers, Clubs, Multipurpose",
+      "deductibilityDetail": null,
+      "nteeCode": "O20",
+      "nteeLetter": "O"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10010-6002",
+      "streetAddress1": "902 BROADWAY",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/810924975/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Collegiate Congress",
+      "ein": "810924975",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=810924975&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/810924975"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=811386172&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Mission North Youth Athletic Partners Inc.",
+    "ein": "811386172",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Recreation, Sports, Leisure, Athletics",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Fund Raising and/or Fund Distribution ",
+      "deductibilityDetail": null,
+      "nteeCode": "N12",
+      "nteeLetter": "N"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10013-0290",
+      "streetAddress1": "PO BOX 290",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/811386172/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Mission North Youth Athletic Partners Inc.",
+      "ein": "811386172",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=811386172&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/811386172"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=811492020&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Carlos Contreras Duarte Community Development Inc.",
+    "ein": "811492020",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Human Services - Multipurpose and Other",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Child Day Care",
+      "deductibilityDetail": null,
+      "nteeCode": "P33",
+      "nteeLetter": "P"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10118-5999",
+      "streetAddress1": "350 5TH AVE 59TH FLR",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/811492020/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Carlos Contreras Duarte Community Development Inc.",
+      "ein": "811492020",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=811492020&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/811492020"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=813354477&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Joy Up Foundation Inc.",
+    "ein": "813354477",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Health - General and Rehabilitative",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Fund Raising and/or Fund Distribution ",
+      "deductibilityDetail": null,
+      "nteeCode": "E12",
+      "nteeLetter": "E"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10027-4039",
+      "streetAddress1": "180 CLAREMONT AVE APT 44",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/813354477/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Joy Up Foundation Inc.",
+      "ein": "813354477",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=813354477&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/813354477"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=820647067&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Little Hands Big Minds Academy Inc.",
+    "ein": "820647067",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Youth Development",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Youth Development N.E.C.",
+      "deductibilityDetail": null,
+      "nteeCode": "O99",
+      "nteeLetter": "O"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10011-1533",
+      "streetAddress1": "341 W 24TH ST APT 10B",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/820647067/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Little Hands Big Minds Academy Inc.",
+      "ein": "820647067",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=820647067&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/820647067"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=820729998&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Thenew 3rs Inc.",
+    "ein": "820729998",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Educational Institutions and Related Activities",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Elementary, Secondary Education, K - 12",
+      "deductibilityDetail": null,
+      "nteeCode": "B20",
+      "nteeLetter": "B"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10026-3437",
+      "streetAddress1": "130 W 113TH ST APT 5A",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/820729998/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Thenew 3rs Inc.",
+      "ein": "820729998",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=820729998&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/820729998"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=821071132&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "REPAIRRESTORESAFEGUARD INC",
+    "ein": "821071132",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are not deductible",
+      "subsection": "501(c)(4)",
+      "nteeType": "Civil Rights, Social Action, Advocacy",
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": "Civil Rights, Social Action, Advocacy N.E.C.",
+      "deductibilityDetail": null,
+      "nteeCode": "R99",
+      "nteeLetter": "R"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10003-0711",
+      "streetAddress1": "126 E 4TH ST APT 4",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/821071132/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "REPAIRRESTORESAFEGUARD INC",
+      "ein": "821071132",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=821071132&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/821071132"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=900514551&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Meeting the Need Consulting",
+    "ein": "900514551",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Youth Development",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Youth Development Programs, Other",
+      "deductibilityDetail": null,
+      "nteeCode": "O50",
+      "nteeLetter": "O"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10001-7604",
+      "streetAddress1": "244 5TH AVE",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/900514551/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Meeting the Need Consulting",
+      "ein": "900514551",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=900514551&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/900514551"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=900609502&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "AMERICAN FEDERATION OF TEACHERS",
+    "ein": "900609502",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are not deductible",
+      "subsection": "501(c)(5)",
+      "nteeType": null,
+      "foundationStatus": "All organizations except 501(c)(3)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10021-0029",
+      "streetAddress1": "PO BOX 1145",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/900609502/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "AMERICAN FEDERATION OF TEACHERS",
+      "ein": "900609502",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=900609502&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/900609502"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=900997073&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Urban Woodlands Community Gardens Inc. Dba the Lotus Garden",
+    "ein": "900997073",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Environmental Quality, Protection and Beautification ",
+      "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+      "nteeSuffix": null,
+      "nteeClassification": "Botanical Gardens, Arboreta and Botanical Organizations",
+      "deductibilityDetail": null,
+      "nteeCode": "C41",
+      "nteeLetter": "C"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10025-0003",
+      "streetAddress1": "PO BOX 134",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/900997073/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Urban Woodlands Community Gardens Inc. Dba the Lotus Garden",
+      "ein": "900997073",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=900997073&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/900997073"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=942544716&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "MOVEMENT OF SPIRITUAL INNER AWARENESS NEW YORK ASSOCIATE",
+    "ein": "942544716",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": null,
+      "foundationStatus": "Church 170(b)(1)(A)(i)",
+      "nteeSuffix": null,
+      "nteeClassification": null,
+      "deductibilityDetail": null,
+      "nteeCode": null,
+      "nteeLetter": "0"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10013-2216",
+      "streetAddress1": "365 CANAL ST",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/942544716/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "MOVEMENT OF SPIRITUAL INNER AWARENESS NEW YORK ASSOCIATE",
+      "ein": "942544716",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=942544716&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/942544716"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=943347331&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "Global Security Institute",
+    "ein": "943347331",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "International, Foreign Affairs and National Security",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": "0",
+      "nteeClassification": "Arms Control, Peace Organizations",
+      "deductibilityDetail": null,
+      "nteeCode": "Q41",
+      "nteeLetter": "Q"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10017-1822",
+      "streetAddress1": "866 UN PLAZA",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/943347331/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "Global Security Institute",
+      "ein": "943347331",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=943347331&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/943347331"
+        }
+      }
+    }
+  },
+  {
+    "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=990382289&utm_source=DataAPI&utm_content=02c960ca",
+    "mission": null,
+    "websiteURL": null,
+    "tagLine": null,
+    "charityName": "CENTRAL AMERICAN HEALTHCARE INITIATIVE INC",
+    "ein": "990382289",
+    "orgID": null,
+    "irsClassification": {
+      "deductibility": "Contributions are deductible",
+      "subsection": "501(c)(3)",
+      "nteeType": "Health - General and Rehabilitative",
+      "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+      "nteeSuffix": null,
+      "nteeClassification": "Research Institutes and/or Public Policy Analysis ",
+      "deductibilityDetail": null,
+      "nteeCode": "E05",
+      "nteeLetter": "E"
+    },
+    "mailingAddress": {
+      "country": null,
+      "stateOrProvince": "NY",
+      "city": "NEW YORK CITY",
+      "postalCode": "10128-0000",
+      "streetAddress1": "APARTMENT 8G",
+      "streetAddress2": null
+    },
+    "advisories": {
+      "severity": null,
+      "active": {
+        "_rapid_links": {
+          "related": {
+            "href": "https://api.data.charitynavigator.org/v2/Organizations/990382289/Advisories?status=ACTIVE"
+          }
+        }
+      }
+    },
+    "organization": {
+      "charityName": "CENTRAL AMERICAN HEALTHCARE INITIATIVE INC",
+      "ein": "990382289",
+      "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.profile&ein=990382289&utm_source=DataAPI&utm_content=02c960ca",
+      "_rapid_links": {
+        "related": {
+          "href": "https://api.data.charitynavigator.org/v2/Organizations/990382289"
+        }
+      }
+    }
+  }
+]
