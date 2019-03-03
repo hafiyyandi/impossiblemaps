@@ -20,6 +20,7 @@ Data was sourced from Charity Navigator’s API and saved as JSON files. Two dat
  * Match zip code of organization into lat & lng, using [Eric Hurst’s file](https://gist.github.com/erichurst/7882666)
  
 #### (2) Create Map
+ * Uses [mapbox-gl.js library](https://github.com/mapbox/mapbox-gl-js)
  * 3 layers: 3D visualization of Revenue, 3D of Asset, and 2D View.
  * In 3D view, height of column indicates amount of revenue/asset
  * Colors indicate categories: (a) Museums, (b) Performing Arts, (c) Public Broadcasting & Media, (d)Libraries, Historical Societies, & Landmark Preservation
