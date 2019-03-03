@@ -1,5 +1,342 @@
-.main {
-	margin-top: 30px;
-	font-family: 'Helvetica';
-	text-align: center;
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.map-title {
+    font: 12px/20px 'Chivo', sans-serif;
+    position: absolute;
+    /*width: 30%;*/
+    min-width: 190px;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    letter-spacing: 1px;
+    text-align: right;
+}
+
+.map-title .map-overlay-inner {
+    background-color: #000;
+    color: #eee;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.20);
+    border-radius: 0px;
+    padding: 10px;
+    width: auto;
+    margin-bottom: 10px;
+    display: inline-flex;
+    /*line-height: 34px;*/
+}
+
+.map-title .map-overlay-inner a {
+    color: #2196F3;
+}
+
+.map-title .map-overlay-inner a:visited {
+    color: #2196F3;
+}
+
+.map-title .map-overlay-inner a:active {
+    color: #2196F3;
+}
+
+.map-title .map-overlay-inner a:hover {
+    color: #41EC78;
+}
+
+.map-overlay {
+    font: 12px/20px 'Chivo', sans-serif;
+    position: absolute;
+    width: 30%;
+    min-width: 190px;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    letter-spacing: 1px;
+}
+
+.map-overlay .map-overlay-inner {
+    background-color: #000;
+    color: #eee;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.20);
+    border-radius: 0px;
+    padding: 10px;
+    width: auto;
+    margin-bottom: 10px;
+    display: inline-flex;
+    /*line-height: 34px;*/
+}
+
+.map-overlay .slider-inner {
+    background-color: #000;
+    color: #eee;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.20);
+    border-radius: 0px;
+    padding: 10px;
+    width: auto;
+    margin-bottom: 10px;
+    display: inline-block;
+    /*line-height: 34px;*/
+}
+
+.map-overlay .map-overlay-inner .switchlegend {
+    /*margin-top: -10px;*/
+    height: 34px;
+    /*THE SAME AS SWITCH HEIGHT*/
+    width: 20px;
+    vertical-align: middle;
+    line-height: 34px;
+    float: left;
+    clear: both;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+/*VIEW SWITCH*/
+/* The switch - the box around the slider */
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+    float: left;
+    clear: both;
+    /*      margin-left: : 10px;
+          margin-right: : 10px;*/
+}
+
+/* Hide default HTML checkbox */
+
+.switch input {
+    display: none;
+}
+
+/* The slider */
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #41EC78;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked+.slider {
+    background-color: #2196F3;
+}
+
+input:focus+.slider {
+    box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked+.slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+
+.inner2 {
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+}
+
+/*RADIO BUTTON FOR CATEGORIES*/
+/* The container */
+
+.categories {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    /*margin-bottom: 12px;*/
+    cursor: pointer;
+    /*font-size: 22px;*/
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Hide the browser's default radio button */
+
+.categories input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+/* Create a custom radio button */
+
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 15px;
+    width: 15px;
+    /*background-color: #FFBF00;*/
+    /*border-radius: 50%;*/
+}
+
+.cat0 {
+    background-color: #FFF;
+}
+
+.cat3 {
+    background-color: #FFBF00;
+}
+
+.cat4 {
+    background-color: #EE6352;
+}
+
+.cat5 {
+    background-color: #08B2E3;
+}
+
+.cat6 {
+    background-color: #F4D4BF;
+}
+
+/* On mouse-over, add a grey background color */
+
+.categories:hover input~.checkmark {
+    background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+
+.categories input:checked~.checkmark {
+    /*background-color: #2196F3;*/
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+
+.categories input:checked~.checkmark:after {
+    display: block;
+}
+
+/* Style the indicator (dot/circle) */
+
+.categories .checkmark:after {
+    top: 4px;
+    left: 4px;
+    width: 7px;
+    height: 7px;
+    /*border-radius: 50%;*/
+    background: #000;
+}
+
+/*FINANCIAL (Rev & Asset) SLIDER*/
+
+.fin_slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 5px;
+    border-radius: 0px;
+    background: #999;
+    outline: none;
+    opacity: 1;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.fin_slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #fff;
+    cursor: pointer;
+}
+
+.fin_slider::-moz-range-thumb {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #fff;
+    cursor: pointer;
+}
+
+/**POP UP*/
+
+.mapboxgl-popup {
+    color: #eee;
+    max-width: 400px;
+    font: 12px/20px 'Chivo', sans-serif;
+}
+
+.mapboxgl-popup-content {
+    background-color: #000;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    border-radius: 0;
+    padding: 10px;
+}
+
+/*.mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip {
+    border-top-color: #000;
+}*/
+
+.mapboxgl-popup-close-button {
+    /*color: #fff;*/
+    display: none;
+}
+
+.whitebar {
+    height: 2px;
+    width: 10%;
+    background: #eee;
+    margin-bottom: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*SEARCH BAR*/
+#searchBar {
+    width: 100%;
+    background-color: #333;
+    border: none;
+    font: 12px/20px 'Chivo', sans-serif;
+    padding: 3px;
+    letter-spacing: 1px;
+}
+
+#searchBar:focus {
+    background-color: #2196F3;
+    color: #fff;
+    border: none;
 }
