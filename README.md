@@ -1,5 +1,7 @@
 # impossiblemaps
 
+![alt text](https://static.wixstatic.com/media/a544de_91cc379f953340ed8164a474016608a7~mv2_d_2872_1410_s_2.png/v1/fill/w_1308,h_642,al_c,q_85,usm_0.66_1.00_0.01/a544de_91cc379f953340ed8164a474016608a7~mv2_d_2872_1410_s_2.webp)
+
 Final project code is in "final" folder.
 See live [visualization](https://hafiyyandi.com/ny-arts-non-profits)
 
